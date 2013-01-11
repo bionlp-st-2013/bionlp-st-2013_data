@@ -1,0 +1,2 @@
+2.7. Statistical Analysis
+All data were presented as mean +/- SEM. The measurements were analyzed by one-way analysis of variance (ANOVA) or Student's t-test. The P < .05 level of probability was used as the criteria of significance.

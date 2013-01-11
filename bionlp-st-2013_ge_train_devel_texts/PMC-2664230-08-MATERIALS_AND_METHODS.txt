@@ -1,0 +1,2 @@
+Statistical Analysis
+The experimental results obtained in this study were derived from four separate experiments with healthy volunteer donors. Each assay was performed in duplicate or triplicate where appropriate. Data is presented as the mean +/- SEM. Statistical differences between groups were determined by one-way analysis of variance (ANOVA) with a Bonferroni correction. Statistical significance was defined as P < 0.05.

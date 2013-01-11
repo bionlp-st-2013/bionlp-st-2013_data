@@ -1,0 +1,2 @@
+Statistical analysis
+Where applicable, results are expressed as mean +/- SEM. Comparison between two groups was performed using the paired Student t-Test with the aid of Microsoft Excel software. p<=0.05 was considered significant.

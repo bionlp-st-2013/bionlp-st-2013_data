@@ -1,0 +1,31 @@
+BioNLP Shared Task 2013 GE task
+Text collection for training and development
+
+- It contains 457 text files that correspond to 20 full papers from PubMed
+  Central.
+
+- The texts are extracted and complied by Database Center for Life Science
+  which organizes the BioNLP Shared Task 2013 GE task.
+
+- For the task details, please refer to the task homepage.
+  http://bionlp-st.dbcls.jp/GE/
+
+
+1. Copyright of full texts
+
+The full texts contained in this data set are from the PMC Open Access 
+Subset of PubMed Central (PMC), the U.S.  National Institutes of Health
+(NIH) free digital archive of biomedical and life sciences journal
+literature.
+
+Articles in the PMC Open Access Subset are protected by copyright, but are  
+made available under a Creative Commons or similar license that generally   
+allows more liberal redistribution and reuse than a traditional copyrighted 
+work. Please refer to the license of each article for specific terms of use.
+
+2. References
+
+- PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/
+- BioNLP Shared Task 2013: https://2013.bionlp-st.org/
+- BioNLP Shared Task GE Task: https://bionlp-st.dbcls.jp/GE/
+- Database Center for Life Science: http://dbcls.rois.ac.jp/
