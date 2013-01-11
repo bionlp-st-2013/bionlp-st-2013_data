@@ -1,0 +1,2 @@
+Mind the GAP: Wnt steps onto the mTORC1 train. 
+The TSC1/2 tumor-suppressor complex controls protein synthesis through the regulation of mTOR. In this issue of Cell, Inoki et al. (2006) report that the kinases GSK3 and AMPK cooperate in the activation of TSC2 to inhibit mTOR activity. Surprisingly, the phosphorylation of TSC2 by GSK3 is markedly suppressed by Wnt signaling. This suggests that components of the mTOR pathway may be therapeutic targets for diseases linked to hyperactive Wnt signaling. 

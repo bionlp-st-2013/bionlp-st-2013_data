@@ -1,0 +1,2 @@
+Statistics
+Results are expressed as the mean +/- SEM. Statistical significance between groups was assessed using two-way ANOVA. The differences for in vivo experiments (at least 5 mice per group) were calculated using the Mann-Whitney U-test for unpaired data. Statistical significance of differences between survival rates was analyzed by comparing Kaplan-Meier curves using the log-rank test (GraphPad Prism version 5, GraphPad, San Diego, CA).

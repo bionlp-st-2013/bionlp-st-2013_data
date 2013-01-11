@@ -1,0 +1,14 @@
+Campylobacter
+Species
+C.coli, C.concisus, C. curvus, C. faecalis, C. fetus sp., C. gracilis, C. helveticus, C. hominis, C. hyointestinalis sp., C. jejuni sp., C. jejuni-like bacterium, C. lanienae sp., C. lari, C. mucosalis, C. mucosalis-like bacterium, C. rectus, C. showae, C. sputorum sp., C. upsaliensis
+Description and Significance
+Campylobacter is a Gram-negative pathogen. It is gaining recognition and importance as being responsible for over three times more food poisoning cases a year than Salmonella.
+Genome Structure
+The genome sequencing Campylobacter jejuni was finished in 2000 by the Sanger Centre. The findings show the C. jejuni genome to have 1,641,481 base pairs, containing 1,654 protein coding genes. C. jejuni is the most gene-dense bacterium so far to be sequenced, with 94.3% of the genome containing coding genes (Sanger Institute, 2000).
+Cell Structure and Metabolism
+Campylobacter, a curved and motile rod, is often flagellated and causes bacterial infections in the body (FDA, 2003). Gene sets have been identified that produce sialic acid on the cell surface. This sialic acid enables Campylobacter to survive in the host's body by avoiding the body's immune response, sometimes even confusing the body into attacking itself (Sanger Institute).
+Ecology
+Campylobacter grows best in habitats with an oxygen level lower than 5%, and it is typically found in the intestinal tract of animals. Campylobacter colonizes the mucosal surfaces of birds and mammals, using their mobility to survive in the mucous flow (T. Wassenaar et al., 2004). Campylobacter species are sensitive to salinity, freezing, and pH below five. Campylobacter has an optimal growth temperature between 37 and 42 degrees C (Studio Chem, 2004).
+Pathology
+Campylobacter bacteria causes more disease a year than Shigella and Salmonella combined (FDA 2003). Campylobacteriosis and gastrointestinitis, two very common and infectious diseases, are caused by a species of Campylobacter, C. jejuni . Once infected by Campylobacter, symptoms can include bloody diarrhea, cramps, nausea, and fever. Humans usually are exposed to Campylobacter through drinking contaminated milk and water or through eating undercooked meat, specifically chicken. C. jejuni is the most commonly found species of Campylobacter, which is an pathogen that invades the lining of the small intestine, excreting gut mucosa-destroying toxins on the way. A Campylobacter infection typically can last up to seven days (MEdIC, 2004).
+

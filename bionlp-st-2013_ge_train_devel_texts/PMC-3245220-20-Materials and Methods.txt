@@ -1,0 +1,2 @@
+Western Blot Analysis
+Cells were washed with PBS and resuspended in cell lysis buffer. (Cell Signaling Technology) and incubated for 10 minutes on ice then centrifuged to remove the insoluble fraction. The protein concentration was determined by the BCA protein assay (Bio-Rad, Hercules, CA). Cell lysates were separated by SDS-PAGE on 10% polyacrylamide gels and then transferred onto nitrocellulose membranes and subjected to Western blotting. The immunoblotted proteins were detected by ECL reagent (GE Healthcare Bio-Sciences Corp., Piscataway, NJ).

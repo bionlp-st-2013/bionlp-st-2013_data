@@ -1,0 +1,2 @@
+sigma F activity in the forespore regulates the proteolytic processing of sigma E within the mother cell compartment.
+

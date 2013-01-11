@@ -1,0 +1,2 @@
+Cell stimulation and inhibitor schedule.
+Schedule outlines the timing of inhibitor addition and priming in relation to inflammasome stimulation (t = 0) for THP-1 reporter and PBMC cytokine quantification experiments. Inhibitor treatments and stimulations were carried out as described in the Materials and Methods section.

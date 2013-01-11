@@ -1,0 +1,2 @@
+Statistical Analysis
+The results were expressed as the mean value +/- S.E.M. of individual experiments. The statistical significance of the differences between mean values was assessed by the Student's t-test and analysis of variance (ANOVA).

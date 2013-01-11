@@ -1,0 +1,2 @@
+Densitometric Analysis
+Densitometry of ECL immunoblots was performed using Gelworks ID intermediate software (Ultraviolet Products, Cambridgeshire, UK). Briefly, immunoblots were scanned and gates were drawn tightly around each band. Background values from each lane were subtracted to normalize each measurement. The bands were quantified using the Gelworks software. All Western blots were exposed to film for varying lengths of time, and only films generating subsaturating levels of intensity were selected for densitometric evaluation.

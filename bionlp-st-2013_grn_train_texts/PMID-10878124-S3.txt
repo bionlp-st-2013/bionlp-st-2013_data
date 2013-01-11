@@ -1,0 +1,2 @@
+Phylogenetic analyses of various sigma factor sequences from endospore-forming bacteria revealed that homologues of sigma(E), sigma(K) and sigma(G) clustered together regardless of genus, suggesting a common origin of sporulation sigma factors.
+

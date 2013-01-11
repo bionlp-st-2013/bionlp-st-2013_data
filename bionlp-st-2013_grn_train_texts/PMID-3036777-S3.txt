@@ -1,0 +1,2 @@
+S1 nuclease mapping experiments showed that the sdh operon is transcribed from a sigma-43 promoter; the transcript starts at a guanosine residue 90 base pairs upstream from the first gene of the operon, sdhC.
+

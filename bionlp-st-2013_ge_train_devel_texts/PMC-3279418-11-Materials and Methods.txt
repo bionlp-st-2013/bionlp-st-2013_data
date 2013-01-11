@@ -1,0 +1,2 @@
+Generation of BMDC
+BMDC were developed as previously reported [54], [55]. Cells were collected after 10-12 days of culture. The cell yield was 2-3x107 cells/mouse with 80-95% BMDC.

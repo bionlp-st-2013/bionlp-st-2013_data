@@ -1,0 +1,2 @@
+The promoter of this operon is recognized by RNA polymerase containing the sigma 54-like factor sigma L.
+

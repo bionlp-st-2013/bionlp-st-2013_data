@@ -1,0 +1,2 @@
+Finally, we show that proper localization of SpoIVA required the expression of one or more genes which, like spoIVA, are under the control of the mother cell transcription factor sigmaE.
+

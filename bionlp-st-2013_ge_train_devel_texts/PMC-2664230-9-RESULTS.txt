@@ -1,0 +1,2 @@
+The effects of PTX on LPS-induced TNF-==alpha== production
+To determine the duration of PDE inhibition on TNF-==alpha== production after LPS stimulation, time course studies were conducted. In accordance with prior work, PTX had a rapid and sustained effect on TNF-==alpha== production in vitro (Figure 1).

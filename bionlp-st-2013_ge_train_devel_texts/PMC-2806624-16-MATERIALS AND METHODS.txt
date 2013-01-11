@@ -1,0 +1,2 @@
+RNA isolation and cDNA synthesis.
+RNA was isolated using the RNeasy Mini kit (QIAGEN) according to the manufacturer's protocol. Reverse transcription of human samples was performed with reverse-transcription reagents (Fermentas) with random hexamers according to the manufacturer's protocol.

@@ -1,0 +1,27 @@
+Texts of training Data for BioNLP'13 Shared Task on Event Extraction -- Gene Regulation Network task
+
+
+- Contains 134 documents
+
+- For format details, please refer to the shared task homepage.
+  http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/
+
+
+
+File Descriptions:
+
+*.txt   files contain the target text, each newline denotes a paragraph break.
+
+
+
+History:
+
+19 October 2012, sample data release
+9  January 2013, texts of train data release
+
+
+Authors:
+
+BioNLP'13 Shared Task organizers,
+bionlpsharedtask@gmail.com
+https://sites.google.com/site/bionlpst2013

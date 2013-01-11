@@ -1,0 +1,2 @@
+RsbW efficiently blocked sigma B-dependent transcription but only if it was incubated with sigma B prior to the addition of the core enzyme.
+

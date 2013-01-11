@@ -1,0 +1,5 @@
+Borrelia hermsii DAH
+Description
+Borrelia hermsii strain DAH. This strain was isolated from a case of relapsing fever in western Washington. Borrelia hermsii is the causative agent of tick-borne relapsing fever in the western United States and Canada. Ticks become infected with Borrelia spp. while feeding on an infected mammal, usually a rodent or squirrel. Borrelia then multiplies rapidly, causing a generalized infection throughout the tick. While feeding, the tick passes the organism into a mammalian host through its infectious saliva. Humans become exposed to the infected ticks through contact with rodents or rodent nests. Relapsing fever is characterized by a period of chills, fever, headache, and malaise, an asymptomatic period, followed by another episode of symptoms. This cycle of relapsing is due to changes in the surface proteins of Borrelia, which allow it to avoid detection and removal by the host immune system. This antigenic variation is the result of homologous recombination of silent proteins into an expressed locus, causing partial or complete replacement of one serotype with another.
+
+

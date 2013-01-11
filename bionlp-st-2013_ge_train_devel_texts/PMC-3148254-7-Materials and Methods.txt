@@ -1,0 +1,2 @@
+Cell lines
+The mouse B cell line A20.2J has been previously described [26], [27]. Cells were grown in RPMI 1640, 10% FCS, 10 ==micro==M 2-ME, 2 mM L-glutamine, and antibiotics. HI-5 insect cells (Invitrogen) expressing CD154 have been described [28].

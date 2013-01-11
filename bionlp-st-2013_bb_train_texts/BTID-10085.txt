@@ -1,0 +1,6 @@
+Bordetella pertussis Tohama I
+Description
+Bordetella. This group of organisms is capable of invading the respiratory tract of animals and causing severe diseases. They express a number of virulence factors in order to do this including filamentous hemagglutins for attachment, cytotoxins, and proteins that form a type III secretion system for transport of effector molecules into host cells.
+Description
+Bordetella pertussis Tohama I. This organism, which is unable to persist in the environment, is a strict human pathogen that causes whooping cough and kills hundreds of thousands of people each year. This strain was originally isolated from a patient with whooping cough and has been studied extensively for over 40 years. The chromosome contains a type IV secretion system for export of the pertussis toxin, a typical AB type toxin. The B subunits are involved in attachment to host cells, and the A subunit, the ADP-ribosylating factor, interferes with cell signalling pathways by increasing intracellular cAMP concentrations. The result is an inability of phagocytes to kill foreign invaders such as the bacterium.
+

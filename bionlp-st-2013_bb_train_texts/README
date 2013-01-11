@@ -1,0 +1,28 @@
+Texts of training data for BioNLP'13 Shared Task on Event Extraction -- Bacteria Biotopes tasks
+
+
+- Contains 78 documents their entities, localization and coreference relations
+
+- For format details, please refer to the shared task homepage.
+  http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/
+
+
+
+File Descriptions:
+
+*.txt   files contain the target text, each newline denotes a paragraph break.
+
+
+
+
+History:
+
+19 October 2012, sample data release
+9  January 2013, texts of train data release
+
+
+Authors:
+
+BioNLP'13 Shared Task organizers,
+bionlpsharedtask@gmail.com
+https://sites.google.com/site/bionlpst2013

@@ -1,0 +1,2 @@
+Degraded CGN induced THP1 cell cycle arrest in G1 phase.
+THP-1 cells in exponential growth phase were incubated in the presence or absence of carrageenan for 24 h before being stained with propidium iodide. Cell DNA content was then analyzed by flow cytometry. A: Histograms of cells treated with medium only (control), 10 kDa dCGN (C10), or 40 kDa dCGN (C40). B: Percentage of cells in each phase of the cell cycle when treated with medium only (control), different concentrations of 10 kDa dCGN (C10), of 40 kDa dCGN (C40), or of native CGN (Native).

@@ -1,0 +1,2 @@
+Here, we show that GerE binds near the sigK transcriptional start site, to act as a repressor.
+

@@ -1,0 +1,2 @@
+Our results indicate that the level of KatX level in outgrowing spores depends mainly on EsigmaF, because sigB mutants show normal KatX activity in dormant and outgrowing spores.
+

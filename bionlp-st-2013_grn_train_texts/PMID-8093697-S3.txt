@@ -1,0 +1,2 @@
+Primer extension analysis suggested that the cwlB operon is transcribed by E sigma D and E sigma A, the former transcripts being predominants at the exponential growth phase.
+

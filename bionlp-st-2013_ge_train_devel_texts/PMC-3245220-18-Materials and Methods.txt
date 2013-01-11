@@ -1,0 +1,2 @@
+Secreted Alkaline Phosphatase (SEAP) Analysis
+Secreted alkaline phosphatase activity was analyzed by GreatEscape SEAP kit according to the manufacturer's instruction. Briefly, medium was diluted in the dilution buffer and heated to 65==degrees==C to inactivate endogenous phosphatases then incubated with the substrate for 30 minutes. The chemiluminence signal was recorded using a luminometer.

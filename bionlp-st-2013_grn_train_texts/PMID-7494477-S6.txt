@@ -1,0 +1,2 @@
+Two such amino acid substitutions were isolated in sigma A and one was isolated in sigma H.
+

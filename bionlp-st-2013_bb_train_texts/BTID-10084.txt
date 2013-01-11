@@ -1,0 +1,6 @@
+Bordetella parapertussis 12822
+Description
+Bordetella. This group of organisms is capable of invading the respiratory tract of animals and causing severe diseases. They express a number of virulence factors in order to do this including filamentous hemagglutins for attachment, cytotoxins, and proteins that form a type III secretion system for transport of effector molecules into host cells.
+Description
+Bordetella parapertussis strain 12822 . This organism can infect humans and sheep and it is unable to persist in the environment. This strain was isolated from an infected infant in Germany in 1993. The genome contains the gene for pertussis toxin but does not express it.
+

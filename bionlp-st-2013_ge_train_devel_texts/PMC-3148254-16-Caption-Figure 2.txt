@@ -1,0 +1,2 @@
+CD40-mediated CD80 upregulation is defective in HOIP-deficient cells.
+Cells were incubated for 72 hrs with an isotype control antibody (left) or anti-CD40 antibody (right) and then stained for expression of CD80 (filled profiles indicate staining with anti-CD80 antibody; open profiles are staining with an isotype control antibody). Transduction of both HOIP-deficient (HOIP-/-) clones with a retrovirus encoding FLAG-HOIP reversed defective CD80 upregulation, while transduction with an empty vector (pMIP) did not. Similar results were obtained in a second experiment.
