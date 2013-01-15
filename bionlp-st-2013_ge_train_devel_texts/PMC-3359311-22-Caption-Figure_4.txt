@@ -1,0 +1,2 @@
+PBMCs from CF patients and controls show similar increases in caspase-1 activity upon inflammasome activation.
+PBMCs from CF patients (n = 6) and healthy controls (n = 6) were primed with LPS (10 ng/ml) for 5 hours prior to stimulation with ATP (5 mM) for 1 hour or Poly(dA:dT) (1 microg/ml) for 3 hours. PBMCs were stimulated with P. aeruginosa strain PAO1 for 3 hours. A representative histogram of the % caspase-1-active cells is shown in (A) with the averaged values shown in (B).

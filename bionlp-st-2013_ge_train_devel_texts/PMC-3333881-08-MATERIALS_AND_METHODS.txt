@@ -1,0 +1,2 @@
+Immunoprecipitation assay and GST-pull down
+Immunoprecipitation, GST-pull down, and production of GST proteins in Escherichia coli strain BL21 were performed as previously reported (50). Details are described in Supplementary Data.

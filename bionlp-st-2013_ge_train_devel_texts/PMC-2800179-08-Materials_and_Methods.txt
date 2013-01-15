@@ -1,2 +1,2 @@
 TNF Activity Bioassay
-Monocytes or THP-1 cells were cultured with or without different concentrations of CGNs or LPS (Salmonella typhosa, Sigma) for 24 h or the indicated time. Biologically active TNF-==alpha==/==beta== in tissue culture supernatant was measured using the WEHI 164 clone 13-cell killing assay [29]. TNF concentrations are expressed as pg/ml.
+Monocytes or THP-1 cells were cultured with or without different concentrations of CGNs or LPS (Salmonella typhosa, Sigma) for 24 h or the indicated time. Biologically active TNF-alpha/beta in tissue culture supernatant was measured using the WEHI 164 clone 13-cell killing assay [29]. TNF concentrations are expressed as pg/ml.

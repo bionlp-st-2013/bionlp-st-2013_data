@@ -1,0 +1,2 @@
+NF-kappaB/AP-1 Activity Assay
+Supernatants from THP-1 reporter cells were incubated with Quanti-Blue substrate (Invivogen) at 37degreesC and allowed to develop for 16-18 hours. Quanti-Blue contains a substrate for alkaline phosphatase and changes in the amount of NF-kappaB/AP-1 activity were quantified by optical density (lambda = 655) measured using a SpectraMax 384 Plus plate reader and SoftMax Pro software (Molecular Devices).

@@ -1,0 +1,2 @@
+PBMCs from CF patients do not produce increased amounts of IL-1beta.
+PBMCs from CF patients (n = 17-20) and healthy controls (n = 15-19) were primed with LPS (10 ng/ml) overnight and stimulated with P. aeruginosa PAO1 (MOI = 1), P. aeruginosa PAO1 lacking exsA (MOI = 1), ATP (5 mM), or Poly(dA:dT) (1 microg/ml) for 24 hours. P. aeruginosa lacking exsA was used as a type III secretion control in comparison with wild-type P. aeruginosa. Supernatants were assayed for (A) IL-1beta and (B) IL-8.

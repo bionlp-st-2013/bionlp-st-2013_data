@@ -1,0 +1,2 @@
+Chromatin Immunoprecipitation (ChIP)
+ChIP assays was performed as previously described6. The primers used to amplify the promoter region adjacent to the kappaB sites of IL8 and NFKBIA, as well as ACTB have been described6.

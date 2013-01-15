@@ -1,0 +1,2 @@
+CD14 positive monocytes from CF patients and controls show similar increases in caspase-1 activity upon inflammasome stimulation
+Monocytes were identified in PBMC populations using CD14 as a phenotyping marker. CD14 positive monocytes from CF patients and healthy controls showed a significant increase in caspase-1 activation upon stimulation with LPS+ATP, PAO1, and LPS+Poly(dA:dT) (Fig. 4a) but this activation was not different between CF and control subjects (Fig. 4b).

@@ -1,0 +1,2 @@
+Luciferase Reporter Gene Assays
+Luciferase reporter gene assays were performed as previously described6. Briefly, cells were cotransfected at a ratio of 10:1 with various promoter-driven firefly luciferase constructs to the Renilla luciferase pTKRL plasmid, together with indicated plasmids. Cells were cultured for 1-2 days and then stimulated in triplicate before harvest. Lysates were analyzed using the Dual-Luciferase Kit (Promega).

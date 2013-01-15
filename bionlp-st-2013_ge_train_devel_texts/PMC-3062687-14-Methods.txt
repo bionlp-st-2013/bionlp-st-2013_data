@@ -1,0 +1,2 @@
+32P in vivo Labeling
+HEK 293T cells were labeled with 2 mCi/ml 32P-orthophosphate (Perkin Elmer) in phosphate-free medium (Invitrogen) for 2 h. Cells were then left untreated or treated with TNF (50 ng/ml, R&D Systems) for indicated periods. Cell lysates were prepared and used for immunoprecipitations with RPS3 antibody.

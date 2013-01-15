@@ -1,0 +1,2 @@
+LC-MS/MS Analysis
+GST or GST-RPS3 was incubated with recombinant IKKbeta protein as described above in an in vitro kinase assay reaction conducted without 32P-gamma-ATP labeling. The reaction was separated by SDS-PAGE, and the protein gel was stained with Colloidal Blue (Invitrogen). The corresponding protein fragments were excised and subjected to trypsin digestion and LC-MS/MS at the Yale Cancer Center Mass Spectrometry Resource (New Haven, CT).

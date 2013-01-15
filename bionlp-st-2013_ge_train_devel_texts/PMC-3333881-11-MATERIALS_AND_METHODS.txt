@@ -1,0 +1,2 @@
+Statistical analysis
+Statistical analysis was performed by two-tail unpaired Student's t-test. Data were reported as means +/- SE. Differences between the means were considered as statistically significant at the 95% level (P < 0.05).

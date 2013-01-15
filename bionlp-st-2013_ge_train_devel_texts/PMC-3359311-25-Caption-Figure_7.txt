@@ -1,0 +1,2 @@
+Bay11-7082 inhibits pro-IL-1beta production in response to P. aeruginosa.
+PMA-differentiated THP-1 cells were treated with 10 microM CFTRinh172 or 20 microM Bay11-7082 and harvested after (A) 4 hours (n = 3) or (B) 0.5, 1, and 1.5 hours (n = 3) stimulation with PAO1. One representative blot is shown with a graph of the averaged fluorescence intensity values over 3 experiments.

@@ -1,0 +1,2 @@
+In vitro translation
+HA-IkappaB-alpha, p65 and Tat were expressed under the T7 promoter and in vitro translated using the TnT quick coupled transcription/translation system (Promega), as previously reported (50). Details are described in Supplementary Data.
