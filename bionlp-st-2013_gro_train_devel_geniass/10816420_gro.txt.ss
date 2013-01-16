@@ -1,0 +1,12 @@
+Human Sug1/p45 is involved in the proteasome-dependent degradation of Sp1.
+The transcription factor Sp1 was previously shown to undergo proteasome-dependent degradation when cells were glucose-starved and stimulated with the adenylate cyclase inducer, forskolin.
+However, the control of the Sp1 degradation process is largely unknown.
+Using in vitro and in vivo interaction studies, we show in the present study that Sp1 interacts with human Sug1 [hSug1, also known as p45 or thyroid-hormone-receptor interacting protein ('TRIP1')], an ATPase subunit of the 26 S proteasome and a putative transcriptional modulator.
+This interaction with Sp1 occurs through the C-terminus of hSug1, the region that contains the conserved ATPase domain in this protein.
+Both in vitro studies, in reconstituted degradation assays, and in vivo experiments, in which hSug1 is overexpressed in normal rat kidney cells, show that full-length hSug1 is able to stimulate the proteasome-dependent degradation of Sp1.
+However, hSug1 truncations that lack either the N- or C-terminal domain of hSug1 act as dominant negatives, inhibiting Sp1 degradation in vitro.
+Also, an ATPase mutant of hSug1, while still able to bind Sp1, acts as a dominant negative, blocking Sp1 degradation both in vitro and in vivo.
+These results demonstrate that hSug1 is involved in the degradation of Sp1 and that ATP hydrolysis by hSug1 is necessary for this process.
+Our findings indicate that hSug1 is an exchangeable proteasomal component that plays a critical regulatory role in the proteasome-dependent degradation of Sp1.
+However, hSug1 is not the factor limiting Sp1 degradation in the cells treated with glucosamine.
+This and other considerations suggest that hSug1 co-operation with other molecules is necessary to target Sp1 for proteasome degradation.

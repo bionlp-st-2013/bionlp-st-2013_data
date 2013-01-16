@@ -1,0 +1,19 @@
+Western Blot Analysis
+THP-1 cells were stimulated for various lengths of time with 0.1 mg/ml C10 or C40, or 10 microg/ml LPS.
+Cells were then pelleted, washed and homogenised in lysis buffer (10 mM Hepes, pH 7.9, 150 mM NaCl, 1 mM EDTA, 0.6% NP-40, and 0.5 mM PMSF) on ice.
+Homogenates were sonicated, centrifuged at 10,000 rpm to remove cellular debris, and supernatant collected.
+Protein concentration was determined using the DC Protein Assay (Bio-Rad).
+Proteins in samples (15 microg total proteins) were resolved in a denaturing 12% polyacrylamide gel and transferred to a nitrocellulose membrane.
+I-kappaBalpha protein was detected using a rabbit polyclonal antibody (Santa Cruz Biotechnology, CA) followed by a horseradish peroxidase-coupled goat polyclonal antibody against rabbit Ig (Caltag Laboratories).
+Finally, IkappaB bands were revealed using the ECL(TM) detection system (Amersham Pharmacia Biotech, Les Ullis, France) according to the manufacturers' instruction.
+Antibody to alpha-Tubulin (Santa Cruz) was use as loading control.
+For nuclear NF-kappaB, THP-1 cells were stimulated with 1 mg/ml C10 or C40 for 30 minutes at 37degreesC.
+Cells were then pelleted and nuclei separated as described [31].
+Nuclei were washed and homogenized directly in loading (Laemli) buffer and heated for 5 minutes at 100degreesC.
+Proteins in samples were resolved in a denaturing 8% polyacrylamide gel and transferred to a polyvinylidine fluoride (PVDF) membrane (Immobilon-P; Millipore, Bedford, MA).
+Membranes were incubated in blocking buffer (1% BSA, in PBS) for two hours at room temperature.
+Membranes were subsequently probed with the corresponding antibody in blocking buffer, overnight.
+Rabbit polyclonal antibody anti-NF-kappaB p50 subunit (# sc-114) or anti-NF-kappaB p65 subunit (# sc-109) from Santa Cruz Biotechnology were used.
+Membranes were washed six times in PBS with 0.05% Tween 20, 5 minutes each time, and incubated with a 1/3000 dilution of HRP-conjugated F(ab')2 goat anti-rabbit IgG in 5% nonfat dry milk and 0.05% Tween 20 in PBS for 1 hour at room temperature.
+After washing six more times in PBS with 0.05% Tween 20, antibody-reactive proteins were detected using a chemiluminescence substrate (SuperSignal; Pierce, Rockford, IL) according to the manufacturer's instructions.
+To confirm that equivalent amounts of protein were loaded in each line, membranes were also Western blotted for ERK as described [32].

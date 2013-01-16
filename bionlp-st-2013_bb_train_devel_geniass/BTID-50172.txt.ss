@@ -1,0 +1,10 @@
+Ureaplasma urealyticum
+Ureaplasma parvum causes human urogenital tract infections
+Ureaplasma parvum is a mycoplasma and a pathogenic ureolytic mollicute which colonises the urogenital tracts of humans.
+It is an an opportunistic pathogen that is a significant cause of adverse pregnancy outcome, neonatal disease, and supperative arthritis.
+During delivery it can also spread to the central nervous system and lower respiratory tract of newborn infants resulting in infant pneumonia, meningitis, and septicemia.
+U. parvum and other mycoplasma have lost the cell wall of their ancestors, and in fact, are the smallest free-living organisms known.
+Although Mycoplasma genitalium boasts a smaller genome than the 750,000 base pairs of U. parvum, the latter may rely upon a more minimal set of essential genes to function.
+The bacterium uniquely lacks several proteins standard in comparable organisms and its low biosynthetic capacity means that it must import more nutrients needed for growth that most other bacteria.
+Only some of the 14 known serotypes (serovars) of U. parvum are involved in disease.
+

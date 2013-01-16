@@ -1,0 +1,9 @@
+Identification and characterization of the human homologue (RAI2) of a mouse retinoic acid-induced gene in Xp22.
+We have identified a novel human gene during studies of a 1.3-Mb region of Xp22 between DXS418 and DXS999.
+A PAC contig spanning the region was constructed, sequenced, and analyzed by gene and exon prediction programs and by homology searches.
+Further investigation of predicted exons from PAC clone 389A20 led to the identification of a single-exon gene, designated RAI2 (retinoic acid-induced 2).
+RAI2 mapped 28 kb centromeric to marker DXS7996, between DXS7996 and DXS7997, and was transcribed from centromere to telomere.
+Northern blot analysis and reverse transcription-polymerase chain reaction analysis revealed expression of a 2.5-kb transcript in four fetal tissues (brain, lung, kidney, and heart) and eight adult tissues (heart, brain, placenta, lung, skeletal muscle, kidney, pancreas, and retina) but not in fetal or adult liver.
+The 530-amino-acid protein (57 kDa predicted mass) displays 94% homology with a mouse retinoic acid-induced gene product and contains a novel proline-rich (39%) domain of 68 amino acids.
+Retinoic acid is involved in vertebrate anteroposterior axis formation and cellular differentiation and has been shown to modulate gene expression controlling early embryonal development, suggesting a developmental role for RAI2.
+RAI2 remains a candidate gene for diseases mapping to the Xp22 region.

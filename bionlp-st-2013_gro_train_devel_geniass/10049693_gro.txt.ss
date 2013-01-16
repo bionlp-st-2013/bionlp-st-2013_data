@@ -1,0 +1,8 @@
+The LIM proteins FHL1 and FHL3 are expressed differently in skeletal muscle.
+We have determined the complete mRNA sequence of FHL3 (formerly SLIM2).
+We have confirmed that it is a member of the family of LIM proteins that share a similar secondary protein structure, renamed as Four-and-a-Half-LIM domain (or FHL) proteins in accordance with this structure.
+The "half-LIM" domain is a single zinc finger domain that may represent a subfamily of LIM domains and defines this particular family of LIM proteins.
+The distribution of FHL mRNA expression within a variety of murine tissues is complex.
+Both FHL1 and FHL3 were expressed in a number of skeletal muscles while FHL2 was expressed at high levels in cardiac muscle.
+Localisation of FHL3 to human chromosome 1 placed this gene in the proximity of, but not overlapping with, alleles associated with muscle diseases.
+FHL1 and FHL3 mRNAs were reciprocally expressed in the murine C2C12 skeletal muscle cell line and this suggested that the pattern of expression was linked to key events in myogenesis.

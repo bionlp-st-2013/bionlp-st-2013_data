@@ -1,0 +1,2 @@
+The signaling pathway involves SpoIVB, a serine peptidase produced in the forespore, which is believed to cross the innermost membrane surrounding the forespore and activate a complex of proteins, including BofA, SpoIVFA, and SpoIVFB, located in the outermost membrane surrounding the forespore.
+

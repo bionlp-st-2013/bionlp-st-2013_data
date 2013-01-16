@@ -1,0 +1,2 @@
+We now report that the purified product of gerE (GerE) is a DNA-binding protein that adheres to the promoters for cotB and cotC.
+

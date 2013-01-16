@@ -1,0 +1,14 @@
+Cooperative induction of cytokines by AP-1 and NF-kappaB
+To further characterize the involvement of NF-kappaB in cytokine regulation, we treated cells with an NF-kappaB activation inhibitor (NAI).
+The results showed that NAI selectively down-regulated NF-kappaB activation (figures 4a and 4b) and did not alter AP-1 activity (figures 4c and 4d).
+Exposure of Jurkat T-cells to NAI resulted in a modest reduction of CXCL8 following PMA exposure, while it did not alter the CXCL8 release following HK E. coli exposure (figure 5a).
+NAI did not affect TNF expression (figure 5b) indicating that NF-kappaB is not the main regulator of CXCL8 or TNF following either PMA or HK E. coli exposure in Jurkat T-cells.
+In contrast, NAI resulted in a complete inhibition of IL-6 following PMA exposure and a 45% inhibition following HK E. coli exposure (figure 5c), suggesting an involvement of NF-kappaB in IL-6 regulation.
+Ca2+ was observed to increase AP-1 activity (figure 1c) and reduce NF-kappaB activity (figure 2e); therefore, we exposed T-cells to a PKC inhibitor together with PMA to determine its effect on cytokine expression.
+Inhibition of PKC reduced CXCL8 release from 7 ng/ml to 3 ng/ml while it had a modest effect on IL-6 and TNF (figure 6a-c).
+This prompted us to test the effect of JNK inhibition on PMA-induced cytokine expression.
+JNK is involved in the regulation of a multitude of different transcription factors, including the phosphorylation and activation of c-Jun, c-Fos and p53, leading to cellular apoptosis [26].
+Inhibition of the JNK pathways resulted in a down-regulation of both CXCL8 and IL-6, while no clear effect was observed on TNF expression (figure 6a-c).
+Analysis of mRNA levels using RT-qPCR (table 2) showed that PMA induced both il-6 and cxcl8 mRNA (5.1-fold and 111.8 fold respectively).
+Addition of the NF-kappaB inhibitor NAI and the JNK inhibitor reduced the il-6 expression below basal levels.
+In contrast, while the cxcl8 levels were suppressed by the same treatments the levels remained elevated above basal level.

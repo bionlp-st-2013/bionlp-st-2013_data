@@ -1,0 +1,9 @@
+Three human RNA polymerase III-specific subunits form a subcomplex with a selective function in specific transcription initiation.
+Transcription by RNA polymerase III involves recruitment of the polymerase by template-bound accessory factors, followed by initiation, elongation, and termination steps.
+An immunopurification approach has been used to demonstrate that human RNA Pol III is composed of 16 subunits, some of which are apparently modified in HeLa cells.
+Partial denaturing conditions and sucrose gradient sedimentation at high salt result in the dissociation of a subcomplex that includes hRPC32, hRPC39, and hRPC62.
+Cognate cDNAs were isolated and shown to encode three subunits that are specific to RNA Pol III and homologous to three yeast subunits.
+The human RNA Pol III core lacking the subcomplex functions in transcription elongation and termination following nonspecific initiation on a tailed template, but fails to show promoter-dependent transcription initiation in conjunction with accessory factors.
+The capability for specific transcription initiation can be restored either by the natural subcomplex or by a stable subcomplex composed of recombinant hRPC32, hRPC39, and hRPC62 polypeptides.
+One component (hRPC39) of this subcomplex interacts physically with both hTBP and hTFIIIB90, two subunits of human RNA Pol III transcription initiation factor IIIB.
+These data strongly suggest that the hRPC32-hRPC39-hRPC62 subcomplex directs RNA Pol III binding to the TFIIIB-DNA complex via the interactions between TFIIIB and hRPC39.

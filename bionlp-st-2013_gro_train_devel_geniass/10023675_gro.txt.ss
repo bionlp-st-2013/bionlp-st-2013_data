@@ -1,0 +1,9 @@
+Physical interaction of the bHLH LYL1 protein and NF-kappaB1 p105.
+The LYL1 gene was first identified upon the molecular characterization of the t(7;9)(q35;p13) translocation associated with some human T-cell acute leukemias (T-ALLs).
+In adult tissues, LYL1 expression is restricted to hematopoietic cells with the notable exclusion of the T cell lineage.
+LYL1 encodes a basic helix-loop-helix (bHLH) protein highly related to TAL-1, whose activation is also associated with a high proportion of human T-ALLs.
+A yeast two-hybrid system was used to identify proteins that specifically interact with LYL1 and might mediate its activities.
+We found that p105, the precursor of NF-kappaB1 p50, was the major LYL1-interacting protein in this system.
+The association between LYL1 and p105 was confirmed both in vitro and in vivo in mammalian cells.
+Biochemical studies indicated that the interaction was mediated by the bHLH motif of LYL1 and the ankyrin-like motifs of p105.
+Ectopic expression of LYL1 in a human T cell line caused a significant decrease in NF-kappaB-dependent transcription, associated with a reduced level of NF-kappaB1 proteins.

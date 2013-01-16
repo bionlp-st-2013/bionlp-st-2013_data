@@ -1,0 +1,9 @@
+The BCL6 proto-oncogene suppresses p53 expression in germinal-centre B cells.
+The human proto-oncogene BCL6 encodes a BTB/POZ-zinc-finger transcriptional repressor that is necessary for germinal-centre formation and is implicated in the pathogenesis of B-cell lymphoma.
+The precise function of BCL6 in germinal-centre development and lymphomagenesis is unclear because very few direct BCL6 target genes have been identified.
+Here we report that BCL6 suppresses the expression of the p53 (also known as tp53) tumour suppressor gene and modulates DNA damage-induced apoptotic responses in germinal-centre B cells.
+BCL6 represses p53 transcription by binding two specific DNA sites within the p53 promoter region and, accordingly, p53 expression is absent in germinal-centre B cells where BCL6 is highly expressed.
+Suppression of BCL6 expression via specific short interfering RNA leads to increased levels of p53 messenger RNA and protein both under basal conditions and in response to DNA damage.
+Most notably, constitutive expression of BCL6 protects B cell lines from apoptosis induced by DNA damage.
+These results suggest that an important function of BCL6 is to allow germinal-centre B cells to tolerate the physiological DNA breaks required for immunoglobulin class switch recombination and somatic hypermutation without inducing a p53-dependent apoptotic response.
+These findings also imply that deregulated BCL6 expression contributes to lymphomagenesis in part by functional inactivation of p53.

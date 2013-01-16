@@ -1,0 +1,4 @@
+Time-Lapse Microscopy
+HuT-78 cells expressing GATA-3-GFP were maintained at 37degreesC in growth medium in a closed FCS2 perfusion chamber (Bioptechs, Butler, Pennsylvania, USA) combined with an objective heater (Bioptechs) on the stage a Zeiss Axiovert 200 microscope (Thornwood, New York, USA).
+Observations were made by 40x1.0 NA oil-immersion objective lens, and fluorescence and phase contrast images were gathered using a Hamamatsu ORCA-ER charged coupled device camera (Bridgewater, New Jersey, USA) driven by Openlab software (Improvision, Coventry, UK).
+Photographs were taken at 0, 30, 60, 120, and 240 min.

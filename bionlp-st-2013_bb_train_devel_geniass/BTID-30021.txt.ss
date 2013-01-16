@@ -1,0 +1,10 @@
+Understanding the molecular virulence mechanisms of a bacterium which is pathogenic for fish
+An understanding of the molecular mechanisms which confer an aptitude for colonization, invasiveness, and reorientation of the physiology of a host constitutes a challenge of major importance, from academic, medical and agronomic points of view: these studies serve to guide the conception of new strategies for fighting pathogenic organisms.
+The genus Flavobacterium includes a large diversity of species, principally isolated from aquatic environments.
+These species include notably three which are pathogenic for fish: F. psychrophilum, F. columnare and F. branchiophilum.
+The genome of the JIP 02/86 strain of the bacterium F. psychrophilum which is pathogenic for the salmonides has been already sequenced and analyzed (Duchaud E.)
+Whereas F. columnare and F. psychrophilum are sometimes capable of causing branchial lesions in several species of fish, a third species, F. branchiophilum, is mainly responsible for gill disease (Kimura et al., and Wakabayashi H. et al.), a pathology which primarily affects salmonides.
+Since the first description of this bacterium in Japan, F. branchiophilum has been detected in numerous regions in which salmoniculture is practiced (USA, Hungary, Canada, Korea).
+In contrast to F. psychrophilum and F. columnare, F. branchiophilum is considered to be a non-invasive bacterium.
+The branchial tropism is probably linked to proteolytic and hemagglutinating activities of extracellular products as well as to the adherence capacities of the bacterium, which affects the respiratory capacity of the colonized hosts (Wakabayashi, H., and Iwado, T.).
+

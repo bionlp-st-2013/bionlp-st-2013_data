@@ -1,0 +1,2 @@
+ELISA
+The amount of IL-8 present in supernatants collected from Jurkat cell culture was measured using a Human Interleukin-8 ELISA Ready-SET-Go kit (eBioscience) according to the manufacturer's instructions.

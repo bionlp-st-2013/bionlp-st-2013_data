@@ -1,0 +1,2 @@
+Degraded CGN stimulated ICAM-1 and TNF-alpha gene expression in monocytes.
+Representative samples of RT-PCR analysis showing over expression of ICAM-1 and TNF-alpha after stimulation of monocytes with 1 g/l of degraded CGN. beta-actin expression was used as normalization gene.

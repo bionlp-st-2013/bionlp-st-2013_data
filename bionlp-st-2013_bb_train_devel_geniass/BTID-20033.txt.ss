@@ -1,0 +1,13 @@
+Burkholderia multivorans ATCC 17616
+Burkholderia species have tremendous versatility: they can efficiently degrade pollutants in water and soil, fix atmospheric nitrogen, or help plants fight against their pathogens; hence they contribute to a healthy, CO2-fixing ecosystem.
+Burkholderia also occupy diverse habitats from soil to rhizosphere (root zone) to water to intimate associations with plants and animals, even living intracellularly in amoebas, for example.
+They have among the largest prokaryote genomes (7 to 9.7 Mb), consisting of three replicons, the smaller two exhibiting a faster evolutionary rate and considerable plasticity.
+This rather unique genome structure is thought to contribute to Burkholderia's characterization as a "versaphile".
+Thus far, the members of the Burkholderia cepacia complex (Bcc) and the narrow group of Burkholderia pathogens outside the Bcc have been sequenced.
+This selection gives a very narrow insight into the genomics of the genus.
+Most of the Burkholderia in nature are non-pathogenic, probably are not members of the Bcc, and probably live in the rhizosphere of plants.
+This project logically extends Burkholderia genomics in two significant ways: by gaining genomic insight into environmentally important members outside the Bcc and pathogen groups, and by helping elucidate what traits are important to rhizosphere competence and plant benefit.
+Burkholderia are major nitrogen fixing associates of plants in the two largest CO2-sequestering ecosystems in the western hemisphere, the Amazon rainforest and the Cerrado (Brazilian savannah).
+These soil-microbe-plant communities are the functional unit of an ecosystem, not the plant in isolation.
+Of the three species to be sequenced for this project, one was isolated from the Amazon rain forest, one comes from the Cerrado, and one is the type strain of grass root colonizers.
+

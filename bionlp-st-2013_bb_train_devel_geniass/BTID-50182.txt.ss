@@ -1,0 +1,12 @@
+Xanthomonas campestris
+Xanthomonas campestris is a plant pathogen that causes black rot in certain plants and weeds
+The genus Xanthomonas is a diverse and economically important group of bacterial phytopathogens, belonging to the gamma-subdivision of the Proteobacteria.
+Xanthomonas campestris pv. campestris (Xcc), a Gram-negative aerobic rod, is the causal agent of black rot, which affects crucifers such as Brassica and Arabidopsis.
+Symptoms include marginal leaf chlorosis and darkening of vascular tissue, accompanied by extensive wilting and necrosis.
+Full leaf yellowing, wilting, and necrosis occur as the disease advances.
+The Xcc bacterium also infects weeds, including Arabidopsis thaliana , which has been sequenced and is the model species used in plant research.
+Researchers can now test hypotheses about genes associated with plant infections using the publicly available genome sequences of the plant pathogen ( Xcc ) and one of its hosts (Arabidopsis).
+Xanthomonas campestris pv. campestris is grown commercially to produce the exopolysaccharide xanthan gum, which is used as a viscosifying and stabilising agent in many industries.
+Researchers have sequenced two major plant pathogens of the genus Xanthomonas, each species preys on different crops and infects plants in different ways, but the two genomes have 80 percent of their genes in common.
+Comparative analysis between the two Xanthomonas strains allows possible identification of a set of strain-specific genes, some of which are probably responsible for the distinct pathogenicity and host specificity profiles of these organisms.
+

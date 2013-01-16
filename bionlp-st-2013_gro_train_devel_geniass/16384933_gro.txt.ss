@@ -1,0 +1,7 @@
+Expression of the Bcl-3 proto-oncogene suppresses p53 activation.
+While Bcl-3 expression in cancer was originally thought to be limited to B-cell lymphomas with a 14;19 chromosomal translocation, more recent evidence indicates that expression of this presumptive oncoprotein is significantly more widespread in cancer.
+However, an oncogenic role for Bcl-3 has not been clearly identified.
+Experiments presented here indicate that Bcl-3 is inducible by DNA damage and is required for the induction of Hdm2 gene expression and the suppression of persistent p53 activity.
+Furthermore, constitutive expression of Bcl-3 suppresses DNA damage-induced p53 activation and inhibits p53-induced apoptosis through a mechanism that is at least partly dependent on the up-regulation of Hdm2.
+The results provide insight into a mechanism whereby altered expression of Bcl-3 leads to tumorigenic potential.
+Since Bcl-3 is required for germinal center formation, these results suggest functional similarities with the unrelated Bcl-6 oncoprotein in suppressing potential p53-dependent cell cycle arrest and apoptosis in response to somatic hypermutation and class switch recombination.

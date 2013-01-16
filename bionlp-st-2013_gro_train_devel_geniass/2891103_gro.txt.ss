@@ -1,0 +1,7 @@
+Cloning and characterization of a human ribosomal protein gene with enhanced expression in fetal and neoplastic cells.
+Hepatocellular carcinoma is strongly associated with hepatitis B virus carrier patients who usually have HBV sequences integrated in the chromosomal DNA of liver cells.
+To assess the possible effects of HBV regulatory sequences (e.g., the enhancer) on expression of neighboring host genes we have screened for cellular genes that are both overexpressed and adjacent to integrated HBV sequences in hepatocellular carcinoma cells.
+The cloned cDNA for one such gene encodes a protein similar to the E. coli L-3 ribosomal protein which is thought to play a role in mRNA binding to the ribosome.
+The protein encoded by the cDNA localizes to the nucleolus and is also found in ribosomes; possibly it is the mammalian homologue of L-3 (MRL3).
+The expression of MRL3 is higher in colon carcinoma and lymphoma cell lines than in normal liver, placenta and diploid fibroblasts, and is also higher in fetal than in adult liver.
+Therefore, MRL3 overexpression seems to be a property of rapidly dividing cells and is not directly linked to oncogenesis.

@@ -1,0 +1,14 @@
+Impaired cytokine production by cpdm BMDC is correlated with selective defects in NF-kappaB signaling
+There are a number of possible explanations for the defective cytokine secretion in stimulated cpdm BMDC, including 1) reduced surface expression of the LPS receptor complex, 2) increased production of anti-inflammatory mediators, 3) increased expression of negative regulators of TLR pathways, and 4) impaired TLR-induced signaling activation.
+We determined the surface expression of the LPS receptor complex that comprises TLR4, the accessory proteins CD14 and myeloid differentiation factor 2 (MD2/LY96) [19].
+Flow cytometric analysis shows that the expression levels of CD14 and TLR4/MD2 between WT and cpdm BMDC were similar (Fig. 5A).
+We then quantified the secretion of the suppressive cytokines IL10 that can inhibit IL12 secretion in an autocrine manner [20], [21].
+The supernatants from LPS-stimulated cpdm BMDC contained significantly lower levels of IL10 than stimulated WT BMDC (Fig. 5B), suggesting that IL10 was not responsible for decreased secretion of IL12P70 by cpdm BMDC.
+Increased expression of a negative regulator of TLR signaling such as A20 [22] may also suppress cytokine secretion.
+However, the transcript level of A20 was lower in LPS-activated cpdm BMDC than WT controls (Fig. 5C), thereby ruling out overexpression of A20 as a factor in the reduced cytokine production.
+The transcription of TLR3/4-induced proinflammatory intermediates is tightly regulated by cellular signaling pathways, in particular NF-kappaB, TBK1/IRF3, and MAPK [23]-[27].
+We next determined if disrupted NF-kappaB, TBK1/IRF3, and/or MAPK signaling may underlie the impaired cytokine production from stimulated Sharpin-deficient BMDC.
+Stimulus-induced phosphorylation of the IkappaB kinase (IKK1/2) is an essential step in NF-kappaB signaling, allowing phosphorylation and proteasome-mediated degradation of the NF-kappaB inhibitor IkappaBalpha to release the NF-kappaB transcription factors into the nucleus.
+The amount of phosphorylated IKK1/2 (p-IKK1/2) and IkappaBalpha (p-IkappaBalpha) following incubation with LPS or poly I:C was severely decreased in cpdm BMDC as compared with WT controls (Fig. 6).
+The cpdm BMDC exhibited similar levels of TBK1, ERK1/2, and p38 phosphorylation to those of WT cells (Fig. 6).
+These results indicate that the absence of functional SHARPIN decreased NF-kappaB activation but did not affect TBK1/IRF3, ERK1/2, and p38 signaling in BMDC.

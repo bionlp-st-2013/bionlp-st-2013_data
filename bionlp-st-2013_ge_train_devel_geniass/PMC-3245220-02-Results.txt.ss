@@ -1,0 +1,11 @@
+M-CSF Induces NF-kappaB Transcriptional Activity in Human Monocyte-Derived Macrophages (MDMs) and Mouse Macrophage Cell Line, RAW 264.7
+To determine if M-CSF induced NF-kappaB DNA binding in human macrophages, we performed EMSA analysis on nuclear lysates from M-CSF-treated MDMs.
+Similar to previous reports [11], nuclear NF-kappaB constitutively bound DNA in non-stimulated monocytes (Figure 1A).
+Interestingly, adding M-CSF did not alter NF-kappaB DNA binding by EMSA.
+In contrast, after transiently transfecting human MDMs with pNF-kappaB-SEAP constructs containing four NF-kappaB consensus binding sequences, M-CSF treatment of the transfected cells resulted in a 2.3-fold increase in SEAP release in the culture media compared to PBS (vehicle)-treated transfected MDMs (Figure 1B).
+As a control, the pTAL-SEAP construct lacking NF-kappaB binding sites was used.
+Cells transfected with the pTAL-SEAP construct did not produce SEAP in the absence or presence of M-CSF (Figure 1B).
+We next investigated whether M-CSF induced NF-kappaB activity in the mouse macrophage cell line, RAW 264.7.
+RAW 264.7 cells were transfected with either the NF-kappaB-SEAP reporter or control pTAL-SEAP construct.
+As shown in Figure 1C, M-CSF treatment of RAW 264.7 cells increased NF-kappaB reporter activity by 2.5-fold over that of non-treated cells.
+Together, our data demonstrate that M-CSF induced NF-kappaB transcriptional activity in macrophages.

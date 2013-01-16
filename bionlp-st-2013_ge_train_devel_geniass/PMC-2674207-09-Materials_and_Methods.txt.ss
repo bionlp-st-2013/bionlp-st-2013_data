@@ -1,0 +1,6 @@
+NF-kappaB Activation
+NF-kappaB binding activity in nuclear extracts was determined using an ELISA-based kit (Trans-AM p65, Active Motif, Rixensart, Belgium).
+In brief, 5 microg of nuclear extracts were incubated with a plate coated with an NF-kappaB consensus oligonucleotide.
+Plates were washed before addition of an anti-p65 antibody.
+Antibody binding was detected with a secondary HRP-conjugated antibody and developed with TMB substrate.
+The intensity of the reaction was measured at 450 nm.

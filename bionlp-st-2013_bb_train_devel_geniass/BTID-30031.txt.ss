@@ -1,0 +1,17 @@
+A commensal bacterium of the skin
+Staphylococcus xylosus is a Gram positive bacterium with a low G + C content.
+It belongs to the coagulase-negative group of staphylococci.
+It is a commensal bacterium of the skin which is of major interest for several reasons.
+This bacterium is used as a fermenting agent in the production of meat (sausage) and milk (cheese) products.
+It contributes to the development of the red color characteristic of sausages through its nitrate reductase activity (photo 1) and to the orange color on the surface of certain cheeses, since some strains of S. xylosus are pigmented (photo 2).
+This bacterium is mentioned as a dominant species in production facilities.
+Some strains of S. xylosus are capable of colonizing surfaces by forming biofilms (photo 3).
+There is a great diversity of strains within this species.
+As a result of this diversity, certain strains isolated from milk and raw ham produce enterotoxins D, C or E, and as such may present a risk for the consumer.
+Other strains of S. xylosus are opportunistic pathogens of animals.
+Strains of S. xylosus, some of which have been isolated in nosocomial infections, have been described as multi-resistant to diverse antibiotics.
+The genome of S. xylosus is estimated at 2.8 Mb.
+The complete sequence of this genome will lead to the establishment of the genetic bases of the specific properties of this species in comparison with the genomes of other staphylococci: S. aureus, S. epidermididis and S. carnosus.
+It will also make it possible to identify the genetic bases for the adaptation of this bacterium to the agro-alimentary environment, and functions of technologic interest.
+The stud of the genome of S. xylosus will make it possible to evaluate the innocuousness of the strains used as fermenting agents.
+

@@ -1,0 +1,11 @@
+Vibrio parahaemolyticus
+Vibrio parahaemolyticus causes food-borne gastroenteritis
+Vibrios are facultatively anaerobic bacteria that are metabolically similar to the Enterobacteriaceae.
+They are ubiquitous to oceans, coastal waters, and estuaries.
+Vibrio parahaemolyticus is a Gram-negative bacillus from same family as those that cause cholera.
+It naturally inhabits coastal waters and is present in higher concentrations during summer; it is a halophilic, or salt-requiring organism.
+Vibrio parahaemolyticus causes food-borne gastroenteritis, which inflames the stomach and small intestine.
+Most people recover completely from the illness by drinking plenty of fluids.
+The bacterial pathogen is a growing concern in North America, particularly in places where seafood is popular.
+Less commonly, this organism can cause an infection in the skin when an open wound is exposed to warm seawater.
+

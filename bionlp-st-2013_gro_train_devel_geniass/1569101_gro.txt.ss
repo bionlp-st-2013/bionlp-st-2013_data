@@ -1,0 +1,14 @@
+The human T cell transcription factor-1 gene.
+Structure, localization, and promoter characterization.
+We have recently isolated cDNA clones representing four alternative splice forms of a T cell-specific transcription factor, TCF-1.
+Here we report the characterization of the human gene encoding this factor.
+The TCF-1 gene is contained in 10 exons including an untranslated first exon.
+The DNA-binding high mobility group (HMG) box of TCF-1 is encoded by the closely spaced exons VI and VII.
+Differential splicing involves an alternative exon (IX) and three splice acceptor sites in exon X.
+Based on comparison of sequence and on the placement of an alternative exon, TCF-1 appears closely related to the recently characterized HMG box transcription factor TCF-1 alpha/LEF.
+In particular, the HMG boxes encoded by the two TCF genes are virtually identical.
+The TCF-1 gene resides on chromosome 5 band q31.1.
+The TCF-1 promoter coincides with a CpG island.
+As determined by chloramphenicol acetyltransferase analysis, the promoter is preferentially active in T cells.
+The promoter does not contain TCF-1/TCF-1 alpha binding sites and is therefore not autoregulated.
+This observation implies the existence of yet uncharacterized T cell transcription factors that are active during early T cell differentiation.

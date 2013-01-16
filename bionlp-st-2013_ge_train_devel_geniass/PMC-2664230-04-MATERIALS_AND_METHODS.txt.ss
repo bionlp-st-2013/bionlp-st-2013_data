@@ -1,0 +1,3 @@
+Effect of PTX on LPS-induced TNF-alpha production by mononuclear cells
+The concentration of TNF-alpha was quantitatively determined by ELISA in the media of cells exposed to the treatments described above after stimulation for up to a maximum of 18 hours, at 3-hour intervals.
+The results are expressed in pg/mL.

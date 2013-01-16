@@ -1,0 +1,7 @@
+Chromosomal localization of three human genes encoding bone morphogenetic protein receptors.
+Bone morphogenetic proteins (BMPs) are members of the TGF-beta superfamily that play a pivotal role in bone formation during embryogenesis and fracture repair.
+BMP signaling occurs via hetero-oligomeric serine/threonine kinase complexes of BMP type I (BMPR-IA or BMPR-IB) and type II receptors (BMPR-II).
+BMPR-IA and IB are closely related receptors, with sequence differences conserved between different species, suggesting that they serve distinct functions.
+Here we report the cDNA cloning of human BMPR1B and the chromosomal localization of all three BMPR genes.
+Using somatic cell hybrid and FISH analyses, the BMPR1A, BMPR1B, and BMPR2 genes were assigned to 10q23, 4q22-24, and 2q33-34, respectively.
+A processed BMPR1A pseudogene was mapped to 6q23.

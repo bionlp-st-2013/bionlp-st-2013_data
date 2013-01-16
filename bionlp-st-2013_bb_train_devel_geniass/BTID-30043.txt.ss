@@ -1,0 +1,41 @@
+An opportunistic bacterium which causes genital infections
+General information about Mycoplasmas
+Mycoplasma hominis is a bacterium from the urogenital area which is pathogenic for humans.
+This species belongs to the group of mycoplasmas sensu lato, or Mollicutes ("soft skin"), bacteria which are characterized by the absence of a cell wall.
+The Mollicutes (about 200 species) are rooted in the bacterial taxon of Gram-positive bacteria with low G+C content, or Firmicutes ("hard skin"), which possess a thick cell wall.
+The loss of this cell wall is thus a derived character state for Mollicutes, which, within the Firmicutes, are related to the Clostridia and the Bacilli.
+These last two groups are probably paraphyletic.
+
+The reduction in size of mycoplasmal genomes is thought to be related to the life style of these bacteria, in close contact with their host.
+They are either commensals or pathogens, some of which arefacultative intracellular parasites.
+They are found in both animals (including humans and insects) and plants (Spiroplasmas and Phytoplasmas).
+The adoption of an parasitic life style, based on harnessing of the resources of the host cell, means that numerous metabolic functions are no longer needed.
+Mycoplasmas synthesize indeed few precursors de novo, and the loss of genes for numerous biosynthetic pathways has been noted in the genomes of the mycoplasmas that have been sequenced to date.
+The majority of mycoplasmas have less than 1000 genes.
+M. pulmonis, for example has only 782 genes, compared with 4100 for the related firmicute bacterium Bacillus subtilis.
+The loss of the cell wall may also be related to intracellular endoparasitism.
+The mycoplasmas, most of which are host-specific, cause chronic diseases with slow progression in humans and animals.
+Human mycoplasmoses are found in diverse diseases of the respiratory and urogenital tracts.
+Mycoplasmoses which affect farm animals cause considerable economic loss.
+Antibiotic treatment often fails to eradicate these bacteria.
+As for other pathogens, it is hoped that the availability of complete genomic sequences will lead to a better understanding of the physiology, pathogenic potential and host specificity of mycoplasmas, and to the development of new prevention and treatment strategies.
+The large number of sequenced genomes from mycoplasma species makes comparative genomics strategies especially valuable for the prediction of pathogenicity regions and for the comprehension of the evolution of a very diverse group (in terms of pathogenicity, host specificity and also morphology and nutritional requirements).
+The Molligen database, which is maintained at the CBiB (Bordeaux 2 University), is dedicated to the comparative genomics of mycoplasmas.
+Description of Mycoplasma hominis
+Mycoplasma hominis is one of the four mycoplasma species - along with M. pneumoniae, M. genitalium and Ureaplasma urealyticum - for which the pathogenic potential in humans is certain.
+Of these four species, M. hominis is the only one for which the genomic sequence is not yet known.
+M. hominis is an opportunistic mycoplasma which, like Ureaplasma urealyticum, may form part of the commensal urogenital flora of the adult.
+This is the mycoplasma species which has the highest probability of being implicated in genital infections in women.
+M. hominis may also cause infections of the newborn and extragenital infections, especially in immunodepressed subjects.
+The molecular bases of the pathogenic potential of M. hominis remain largely unknown.
+Phylogenetically, M. hominis belongs to the same group as M. pulmonis, M. agalactiae (genomes sequenced at Genoscope), M. mobile and M. hyopneumoniae (genomes sequenced as of Spring 2005; those of other species from this group such as M. arthritidis, M. orale and M. fermentans, are currently being sequenced).
+The comparison of the genomic sequence of
+M. hominis (PG21 strain) with those of these closely related species should lead to a better understanding of the molecular bases of host specificity.
+This comparison will be extended to genomic sequences of other human pathogens (M. pneumoniae, M. genitalium, M. penetrans and U. urealyticum) which belong to a different phylogenetic group, in order to identify new factors for virulence and ecological niches.
+The available sequence data is limited in M. hominis; this includes data on housekeeping genes, and on membrane lipoproteins - some of which possess adhesion properties - that display antigenic variations.
+Such hypervariable systems are frequent in mycoplasmas.
+Furthermore, M. hominis has an unusual type of energy metabolism, based only on the degradation of arginine, which was not found in the other mycoplasmas which have already been sequenced; a knowledge of M. hominis genome will open the way to interesting metabolic reconstitutions.
+More generally, access to this sequence will provide fundamental insights into the biology of a bacterium which is capable of penetrating the interior of human cells.
+A knowledge of the genome of M. hominis will also facilitate the analysis of various strains : clinical isolates from different parts of the human body, antibiotic-resistant mutants (from in vivo or in vitro sources) and products of random mutagenesis by transposition.
+It will also facilitate the inactivation of genes of interest.
+

@@ -1,0 +1,7 @@
+Cloning and characterization of two cytoplasmic dynein intermediate chain genes in mouse and human.
+Cytoplasmic dynein is a large multisubunit microtubule-based motor protein, which mediates movement of numerous intracellular organelles.
+We report here the identification of the human homologue of cytoplasmic dynein intermediate chain 1 gene (DNCI1) located on human chromosome 7q21.3-q22.1.
+The mouse orthologue (Dnci1) was identified along with another highly related gene, Dnci2, and their RNA in situ expression patterns were examined during mouse embryogenesis.
+Dnci1 was found to have a highly restricted expression domain in the developing forebrain as well as the peripheral nervous system (PNS), while Dnci2 displayed a broad expression profile throughout the entire central nervous system and most of the PNS.
+A dynamic expression profile was also found for Dnci2 in the developing mouse limb bud.
+The data presented here provide a framework for the further analysis of the functional role of Dnci1 and Dnci2 in mouse and DNCI1 in human.

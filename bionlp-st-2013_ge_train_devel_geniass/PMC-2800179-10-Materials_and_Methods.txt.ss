@@ -1,0 +1,4 @@
+NF-kB Transcription Reporter Gene Assay
+The plasmid 3XMHC-luc (a generous gift from Drs. J. Westwick and D.A. Brenner, University of North Carolina, Chapel Hill) contains three copies of NF-kappaB-responsive element from the MHC class I locus, placed upstream of the luciferase gene.
+Human monocytic THP-1 cells were transiently transfected as previously described [30], and then cultured for 4 h alone or with increasing concentration of either C10 or C40.
+Luciferase activity was determined using a luminometer (Monolight 2010 Luminometer, Ann Arbor, MI).

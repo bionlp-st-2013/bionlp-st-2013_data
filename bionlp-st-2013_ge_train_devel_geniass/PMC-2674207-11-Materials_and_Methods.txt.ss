@@ -1,0 +1,7 @@
+GATA-3-GFP Construct
+The GATA-3 clone (BC003070) complete cDNA was obtained from Invitrogen Life Technologies as a 5'- EcoRI/3'-XhoI insert of GATA-3 in the pOTB7 vector.
+GATA-3 was excised from pOTB7 using XhoI digestion and pEGFP-C2 (Clontech, Saint-Germain-en-Laye, France) was digested with BamHI.
+DNA was recovered by phenol extraction and ethanol precipitation, and both the GATA-3 fragment and the pEGFP-C2 vector blunt-ended by incubation with Klenow (Bioline Bio-27029) for 30 min at 37degreesC.
+Klenow was inactivated by incubation for 10 min at 75degreesC.
+DNA was recovered by phenol extraction and ethanol precipitation, and both the blunt-ended GATA-3 fragment and the GFP vector were subsequently digested with EcoRI before the 5'-EcoRI/3'-blunt end GATA-3 fragment was inserted into the 5'-EcoRI/3'-blunt ended GFP vector.
+Positive clones were confirmed by digestion and size analysis by 1% agarose gel electrophoresis and by sequencing.

@@ -1,0 +1,5 @@
+In vitro cytokine secretion by BMDC
+The BMDC were cultured in triplicate wells of 24-well or 96-well plates at 106 or 105 cells/mL, respectively, in RPMI-1640 complete medium.
+The cells were washed and stimulated with 100 ng/mL LPS or 25 microg/mL poly I:C.
+After 24 hours, supernatants were harvested for ELISA analysis.
+The presence of nitrite in the supernatants was determined using the Griess reagent.

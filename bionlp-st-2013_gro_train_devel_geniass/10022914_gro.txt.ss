@@ -1,0 +1,12 @@
+Identification of a novel family of targets of PYK2 related to Drosophila retinal degeneration B (rdgB) protein.
+The protein tyrosine kinase PYK2 has been implicated in signaling pathways activated by G-protein-coupled receptors, intracellular calcium, and stress signals.
+Here we describe the molecular cloning and characterization of a novel family of PYK2-binding proteins designated Nirs (PYK2 N-terminal domain-interacting receptors).
+The three Nir proteins (Nir1, Nir2, and Nir3) bind to the amino-terminal domain of PYK2 via a conserved sequence motif located in the carboxy terminus.
+The primary structures of Nirs reveal six putative transmembrane domains, a region homologous to phosphatidylinositol (PI) transfer protein, and an acidic domain.
+The Nir proteins are the human homologues of the Drosophila retinal degeneration B protein (rdgB), a protein implicated in the visual transduction pathway in flies.
+We demonstrate that Nirs are calcium-binding proteins that exhibit PI transfer activity in vivo.
+Activation of PYK2 by agents that elevate intracellular calcium or by phorbol ester induce tyrosine phosphorylation of Nirs.
+Moreover, PYK2 and Nirs exhibit similar expression patterns in several regions of the brain and retina.
+In addition, PYK2-Nir complexes are detected in lysates prepared from cultured cells or from brain tissues.
+Finally, the Nir1-encoding gene is located at human chromosome 17p13.1, in proximity to a locus responsible for several human retinal diseases.
+We propose that the Nir and rdgB proteins represent a new family of evolutionarily conserved PYK2-binding proteins that play a role in the control of calcium and phosphoinositide metabolism downstream of G-protein-coupled receptors.

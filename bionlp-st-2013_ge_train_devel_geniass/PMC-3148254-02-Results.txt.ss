@@ -1,0 +1,17 @@
+Generation of HOIP-deficient B cells via targeted disruption of Rnf31, the gene encoding HOIP
+In our previous study, we demonstrated that HOIP is recruited to the CD40 signaling complex in two mouse B cell lines [6].
+Similar results were obtained with mouse splenocytes, indicating that the interaction of CD40 with HOIP is not limited to transformed B cell lines (unpublished observations).
+We also found that the recruitment of HOIP to CD40 was TRAF2-dependent and that overexpression of a truncated HOIP mutant partially inhibited CD40-mediated NF-kappaB activation.
+These results support the hypothesis that HOIP plays a role in CD40 signal transduction.
+To further define the role and evaluate the importance of HOIP in CD40 signaling, we used somatic cell gene targeting to disrupt the gene encoding HOIP in the mouse B cell line A20.2J.
+This cell line has been particularly useful in the characterization of CD40 signaling mechanisms due to the relative ease with which its genome can be modified by homologous recombination [7], [8], [9].
+We used a targeting vector capable of undergoing homologous recombination with Rnf31 (the gene encoding HOIP) to disrupt the coding sequence of the gene in exon 5 (Fig. 1A).
+Following introduction of the vector, the neomycin-resistant clones that arose were screened by PCR amplification of genomic DNA to identify cells containing a disrupted Rnf31 allele.
+To remove the selectable marker gene cassette from the disrupted Rnf31 allele, recombinant cell lines were transiently transfected with a plasmid that encodes Cre recombinase.
+This step allowed us to perform a second round of targeting and drug selection, generating cells in which both copies of Rnf31 were disrupted.
+Two independent clonal cell lines were chosen for further analysis.
+HOIP protein expression was undetectable in both cell lines, as determined by Western blot analysis of cell lysates (Fig. 1B), demonstrating that the targeting process was successful.
+In the text that follows, the two gene-targeted cell lines are referred to as HOIP-deficient cells.
+To enable us to confirm that any signaling or functional defects observed in HOIP-deficient cells were due to disruption of the Rnf31 gene, both HOIP-deficient cell lines were transduced with a retrovirus encoding FLAG-tagged wild-type HOIP, thus restoring HOIP protein expression (Fig. 1B).
+These cells are referred to as HOIP-reconstituted cells.
+In the experiments that follow, responses by these cells were compared to those of A20.2J cells and HOIP-deficient cells transduced with a retroviral vector (pMIP) lacking a cDNA insert (empty vector).

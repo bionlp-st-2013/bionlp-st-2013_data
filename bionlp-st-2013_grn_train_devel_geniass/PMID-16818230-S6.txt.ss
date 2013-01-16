@@ -1,0 +1,2 @@
+Finally, we demonstrate that CtpB, like IVB, triggers pro-sigma(K) processing by cleaving SpoIVFA.
+

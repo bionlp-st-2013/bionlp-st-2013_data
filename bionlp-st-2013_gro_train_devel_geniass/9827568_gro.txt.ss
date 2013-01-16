@@ -1,0 +1,6 @@
+Further complexity of the human SOX gene family revealed by the combined use of highly degenerate primers and nested PCR.
+SOX proteins contain a conserved HMG-related DNA-binding domain.
+They fulfill essential functions during the development of animals.
+Mutations in several SOX genes have been implicated in human diseases.
+We present here a new set of PCR primers designed to amplify a broad range of SOX HMG-box sequences.
+These primers facilitated the cloning of several new SOX HMG boxes from human genomic DNA, revealing unexpected complexity of the SOX gene family.

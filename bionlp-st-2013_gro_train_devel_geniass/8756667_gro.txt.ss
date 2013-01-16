@@ -1,0 +1,7 @@
+Characterization of NERF, a novel transcription factor related to the Ets factor ELF-1.
+We have cloned the gene for a novel Ets-related transcription factor, new Ets-related factor (NERF), from human spleen, fetal liver, and brain.
+Comparison of the deduced amino acid sequence of NERF with those of other members of the Ets family reveals that the level of homology to ELF-1, which is involved in the regulation of several T- and B-cell-specific genes, is highest.
+Homologies are clustered in the putative DNA binding domain in the middle of the protein, a basic domain just upstream of this domain, and several shorter stretches of homology towards the amino terminus.
+The presence of two predominant NERF transcripts in various fetal and adult human tissues is due to at least three alternative splice products, NERF-1a, NERF-1b, and NERF-2, which differ in their amino termini and their expression in different tissues.
+Only NERF-2 and ELF-1, and not NERF-1a and NERF-1b, function as transcriptional activators of the lyn and blk gene promoters, although all isoforms of NERF bind with affinities similar to those of ELF-1 to a variety of Ets binding sites in, among others, the blk, lck, lyn, mb-1, and immunoglobulin H genes and are expressed at similar levels.
+Since NERF and ELF-1 are coexpressed in B and T cells, both might be involved in the regulation of the same genes.

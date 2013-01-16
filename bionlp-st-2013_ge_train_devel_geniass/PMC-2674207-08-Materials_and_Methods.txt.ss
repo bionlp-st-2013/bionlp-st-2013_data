@@ -1,0 +1,10 @@
+GR-GATA-3 In Vitro Competition Assay for Importin-alpha (Far-Western ELISA)
+Immunoprecipitated importin-alpha (anti-importin-alpha, Santa Cruz Biotechnology) from HuT-78 cells was separated by SDS-PAGE and purified from the excised gel by electroelution [36].
+Similarly, GATA-3 was isolated from nonstimulated HuT-78 cells or cells stimulated for 30 min with anti-CD3/CD28 and GR was isolated from FP (10-8 M, 30 min) stimulated HuT-78 cells.
+These proteins were subsequently refolded in glycine solution.
+100 microl of importin-alpha solution (100 ng/ml in TBS) was added to 96-well plates coated with goat anti-importin-alpha antibody.
+After 1 h incubation, GATA-3 (100 ng/ml in TBS) from stimulated or unstimulated cells were added to the importin-alpha-coated wells.
+GR (10 or 100 ng/ml in TBS) from stimulated or unstimulated cells were added to some wells.
+After a further 1 h incubation, the plate was washed and incubated with primary antibodies (a mixture of rabbit anti-GATA-3 and mouse anti-GR, Santa Cruz Biotechnology) for 1.5 h, and then incubated with secondary antibodies.
+FITC swine anti-rabbit IgG (Dako, Cambridge, UK) was used for the detection of GATA-3, and rhodamine donkey anti-mouse IgG (Novus, Littleton, Colorado, USA) was used for the detection of GR.
+FITC and rhodamine levels were measured with a fluorescent micro-plate reader (Bioline, London, UK).

@@ -1,0 +1,12 @@
+This study was approved by the Human Research Protections Program and the Institutional Review Board.
+Written consent to participate in the study was obtained from all volunteers prior to blood donation.Heparinized Vacutainers were purchased from Becton Dickinson (San Jose, CA).
+1.5-mL Eppendorf centrifuge tubes were purchased from Fisher Scientific (Pittsburg, PA).
+Hank's balanced salt solution (HBSS) and RPMI 1640 were obtained from Irvine Scientific (Santa Ana, CA).
+LPS fromEscherichia coliserotype 0111:B4 and PTX were purchased from Sigma (St. Louis, MO).
+The PKA inhibitor, N-[2-((p-bromocinnamyl)amino)ethyl]-5-isoguinolinesulfonamide-2HCl] (H89), was purchased from Calbiochem (La Jolla, CA).
+Antibodies for phosphorylated CREB (serine 133), phosphorylated I-kappaBalpha (serines 32 and 36), phosphorylated NF-kappaB p65 subunit (serine 276), and secondary antibodies were purchased from Cell Signaling (Beverly, MA).Dextran T500 and Percoll were received from GE Healthcare/Amersham Biosciences (Piscataway, NJ).
+The enzyme-linked immunosorbent assay (ELISA) for TNF-alpha was obtained from Quantikine R&D Systems (Minneapolis, MN).Tris-glycine and DNA retardation gels, nitrocellulose membranes, and western blot running buffers were obtained from Invitrogen (Carlsbad, CA).
+NE-PER(R)nuclear and cytoplasmic extraction reagents, the BCA protein reagent kit, the Supersignal West Pico Chemiluminescent Kit, and the LightShift Chemiluminescent EMSA Kit were purchased from Pierce (Rockland, IL).
+CREB and NF-kappaB DNA oligonucleotide probes were synthesized by IDT (Coralville, IA).
+Nylon membranes were purchased from Roche Applied Sciences (Indianapolis, IN).
+Western blot band quantification was performed with the UN-SCAN-IT Gel Digitizing software (Silk Scientific, Orem, UT).

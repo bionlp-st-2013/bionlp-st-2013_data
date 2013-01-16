@@ -1,0 +1,7 @@
+M-CSF activates PKCalpha in human MDMs.
+MDMs treated with M-CSF (100 ng/ml) for varying amounts of time were lysed and immunoprecipitated using anti-PKC antibody or control IgG antibody.
+One half of the samples was used to analyze PKC kinase activity using a fluorescein tagged peptide and visualized by agarose gel electrophoresis (top panel), while the other half was subjected to Western blot analysis to confirm equal amounts of PKCalpha were immunoprecipitated from each sample (middle panel).
+The kinase assay was quantitated using Quantity One software (Bio-Rad) (bottom panel).
+Data represents the average fold increase of PKCalpha activity in non-stimulated samples compared to M-CSF-treated MDM +/- S.E.M for three independent experiments.
+NS: non-stimulated.
+* The p-values of M-CSF stimulated compared to non-stimulated were <=0.05.

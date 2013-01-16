@@ -1,0 +1,6 @@
+Regulation of histone acetyltransferases p300 and PCAF by the bHLH protein twist and adenoviral oncoprotein E1A.
+Histone acetyltransferases (HAT) play a critical role in transcriptional control by relieving repressive effects of chromatin, and yet how HATs themselves are regulated remains largely unknown.
+Here, it is shown that Twist directly binds two independent HAT domains of acetyltransferases, p300 and p300/CBP-associated factor (PCAF), and directly regulates their HAT activities.
+The N terminus of Twist is a primary domain interacting with both acetyltransferases, and the same domain is required for inhibition of p300-dependent transcription by Twist.
+Adenovirus E1A protein mimics the effects of Twist by inhibiting the HAT activities of p300 and PCAF.
+These findings establish a cogent argument for considering the HAT domains as a direct target for acetyltransferase regulation by both a cellular transcription factor and a viral oncoprotein.

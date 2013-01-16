@@ -1,0 +1,2 @@
+Activation of sigma E requires expression of the sigma F-directed gene spoIIR.
+

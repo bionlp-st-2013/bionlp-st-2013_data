@@ -1,0 +1,2 @@
+From these results we conclude that ComK negatively regulates degR expression by preventing sigmaD-driven transcription of degR, possibly through interaction with the control region.
+

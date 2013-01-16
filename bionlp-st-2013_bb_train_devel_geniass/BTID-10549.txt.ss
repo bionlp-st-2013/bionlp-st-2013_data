@@ -1,0 +1,9 @@
+Saccharophagus degradans 2-40
+Description
+Saccharophagus degradans strain 2-40.
+This strain is a marine gamma-proteobacterium that was isolated from decaying Spartina alterniflora, a salt marsh cord grass, in the Chesapeake Bay, USA.
+It is capable of degrading up to 11 insoluble complex carbohydrates through the collective action of enzyme complexes found on its cell surfaces, utilizing the degradation products as a carbon source.
+These include chitin, which constitute insect exoskeleton, plant cell wall components such as cellulose, and algal cell wall carbohydrates.
+This organism may be useful in bioremediation.
+
+

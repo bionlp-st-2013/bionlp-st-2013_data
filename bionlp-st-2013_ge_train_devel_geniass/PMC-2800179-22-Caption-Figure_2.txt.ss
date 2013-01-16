@@ -1,0 +1,6 @@
+Degraded CGN stimulated TNF secretion from monocytes.
+Levels of TNF released from peripheral blood monocytes (A-B) and THP-1 cells (C-D) after stimulation with dCGN.
+A: TNF release induced by native CGN (open bars), 10 kDa dCGN (grey bars), or 40 kDa dCGN (black bars).
+B: Kinetics of TNF release induced by nothing (control; black diamonds), 0.1 mg/ml 10 kDa dCGN (black triangles), 0.1 mg/ml 40 kDa dCGN (black squares), or 10 microg/ml LPS (open squares).
+C: TNF release induced by nothing (control; open bars), 10 microg/ml LPS (hatched bars), or increasing concentrations of 10 kDa dCGN (grey bars), or 40 kDa dCGN (black bars).
+D: Kinetics of TNF release induced by nothing (control; black diamonds), 0.1 mg/ml 10 kDa dCGN (black triangles), 0.1 mg/ml 40 kDa dCGN (black squares), or 10 microg/ml LPS (open squares).

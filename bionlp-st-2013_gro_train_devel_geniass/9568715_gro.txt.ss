@@ -1,0 +1,6 @@
+Oxidized LDL regulates macrophage gene expression through ligand activation of PPARgamma.
+Macrophage uptake of oxidized low-density lipoprotein (oxLDL) is thought to play a central role in foam cell formation and the pathogenesis of atherosclerosis.
+We demonstrate here that oxLDL activates PPARgamma-dependent transcription through a novel signaling pathway involving scavenger receptor-mediated particle uptake.
+Moreover, we identify two of the major oxidized lipid components of oxLDL, 9-HODE and 13-HODE, as endogenous activators and ligands of PPARgamma.
+Our data suggest that the biologic effects of oxLDL are coordinated by two sets of receptors, one on the cell surface, which binds and internalizes the particle, and one in the nucleus, which is transcriptionally activated by its component lipids.
+These results suggest that PPARgamma may be a key regulator of foam cell gene expression.

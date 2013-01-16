@@ -1,0 +1,49 @@
+Campylobacter coli
+Description and significance
+Campylobacter coli (C. coli) is one of the many species found in class epsilonproteobacteria.
+It is a gram-negative S-shaped curved, somewhat rod-shaped cell, about 0.2-0.5 micrometers long, contains a single polar flagellum at one end, and usually lives in the intestinal tract of animals.[1]
+The bacteria colonize the intestinal epithelium to a point that it breaks out from the epithelial layer and spreads into the bloodstream.[2] C. coli is very similar to its bacteria relative, Campylobacter jejuni (C. jejuni); both cause inflammation of the intestine and cause diarrhea in infected animals and humans.
+Most human infections, about 85% to 95%, involve C. jejuni, while C. coli is responsible for the majority of the remainder.[1] There has been many studies and research for finding treatments to this disease, one of which is the use of antimicrobial chemotherapy for patients with severe infection.
+Erythromycin, fluoroquinolones, and tetracycline were found to be the best antimicrobial drugs.[4] C. coli is usually isolated from pigs, birds, and surface water either by classical or molecular methods, including 16S rDNA shotgun sequencing and polymerase chain reactions to differentiate between C.coli and C.jejuni.[3]
+
+Cell structure and metabolism
+C. coli is a gram-negative, S-shaped bacteria which are characterized as being difficult to deal with, microaerophilic, and require high levels of carbon dioxide for growth.
+C. coli is very versatile and has a complete citric acid cycle, including a complex respiratory chain which allows both aerobic and anaerobic respiration.
+These characteristics allow it to live and survive in a number of environments including the intestine.
+Anaerobic respiration is very important for growth in the intestinal tract and since C. coli is microaerophilic, it would have to be in an environment that contains 5-15% oxygen and 5-15% carbon dioxide.
+It requires a complex media to be cultured and always needs extra growth medium such as glutamate, glutamine, alpha-ketoglutarate, or formate.
+Because C. coli genome is relatively small, it needs many transport systems for the delivery of essential amino acids, nutrients and ions from the external environment.
+The major carbon sources used for growth are carbohydrates and amino acids. [6,7,8]
+Ecology
+C. coli is usually found hand in hand with its bacteria relative, C. jejuni.
+These two organisms are recognized as the two most leading causes of acute inflammation of intestine in the United States and other nations.[9] C.coli is usually isolated from pigs, birds and environmental surface water.
+In a total of 1,794 birds trapped, 5% of those had C. jejuni and only 0.9% were C. coli.
+The prevalence of C. coli differed significantly between ecological groups of birds.
+Birds that are feeding on invertebrates, opportunistic feeders, and birds that have a larger mass were most commonly infected.
+Prevalence was also higher in Europe than in Africa, the Middle East, or Asia.[10]
+Pathology
+C. coli is pathogenic in animals and humans.
+People usually get infected by eating poultry that contained the bacteria, eating raw food, drinking raw milk, and drinking bottle water that was contaminated with the bacteria.
+There are many virulence factors found in this bacteria, one of which is cytolethal-distending toxin (CDT), a multisubunit protein which causes cell death by blocking cell cycle checkpoints and DNA damage.
+The organism infects the intestinal tract of animals and humans and causes diarrhea and septicemia.
+The bacteria colonizes the intestinal epithelium to a point that it breaks out from the epithelial layer and spread into the bloodstream.[2] Patients with C. coli show symptoms of diarrhea, abdominal pain, fever, and bloody stool.
+Application to Biotechnology
+This organism does not produce any useful compounds or enzymes.
+Most of the studies are geared toward the problem of resistance to antimicrobial drugs.
+Current Research
+1. In 2005, Wondwossen A.
+Gebreyes, Siddhartha Thakur and W.
+E.
+Morgan Morrow of Department of Population Health and Pathobiology, College of Veterinary Medicine, North Carolina State University did a research to determine the prevalence and antimicrobial resistance of C. coli in antimicrobial-free (ABF) production systems at farm and slaughter plant.
+ABF systems have been done in the poultry industry over in Europe but none in the US.
+With the ABF systems, pigs are not given antimicrobial during growth.
+If the animal is infected, they are removed from the farm.
+This study shows the high prevalence and antimicrobial-resistant C. coli in the ABF systems.
+It is the first study reporting the isolation of ciprofloxacin-antimicrobial resistant strains from ABF pigs in the USA and raises concerns.[11]
+2. In 2006, a study aim to combine NASBA (nucleic acid sequence-based amplification assay) with a molecular beacon probes, which are small, single-stranded nucleic acid, hairpin probes that brightly fluoresce when they are bound to their targets for the detection of C. jejuni and C.coli based on their 16S rRNAs, and to use the method for detection of these organisms in chicken meat samples. [12]
+3. In 2007, another research done to find prevalence and antimicrobial resistance of Campylobacter in US dairy cattle.
+Feces were collect from cows and cultured for C. jejuni and C. coli.
+After culture, 59 strands of C. coli and 473 strands of C. jejuni were randomly selected for testing to eight antimicrobials: azithromycin, chloramphenicol, ciprofloxacin, clindamycin, erythromycin, gentamicin, nalidixic acid and tetracycline.
+C. jejuni shows resistance to only 3 of the antimicrobials, while C. coli shows resistance to almost all of the antimicrobial.
+This study shows the importance of Campylobacter coli its ability to increase resistance to a greater number of antimicrobials.[13]
+
