@@ -1,0 +1,2 @@
+Previously, it was shown that the GerE protein inhibits transcription in vitro of the sigK gene encoding sigmaK.
+

@@ -1,0 +1,10 @@
+Real-time PCR .
+PCR primers and probes were designed based on the sequences reported in GenBank with the Primer Express software version 1.2 ( Applied Biosystems ) as follows : FOXP3 forward primer , 5'-GAAACAGCACATTCCCAGAGTTC-3' ; FOXP3 reverse primer , 5'-ATGGCCCAGCGGATGAG-3' ; EF-1a forward primer , 5'-CTGAACCATCCAGGCCAAAT-3' ; and EF-1a reverse primer , 5'-GCCGTGTGGCAATCCAAT-3' , as previously described ( Mantel et al. , 2007 ) .
+GATA3 forward primer , 5'-GCGGGCTCTATCACAAAATGA-3' ; and GATA3 reverse primer 5'-GCTCTCCTGGCTGCAGACAGC-3' ( Mantel et al. , 2007 ) .
+T-bet forward primer , 5'-GATGCGCCAGGAAGTTTCAT-3' ; T-bet reverse primer , 5'-GCACAATCATCTGGGTCACATT-3' ; RORC2 forward primer , 5'-CAGTCATGAGAACACAAATTGAAGTG-3' ; and RORC2 reverse primer 5'-CAGGTGATAACCCCGTAGTGGAT-3' .
+The prepared cDNAs were amplified using SYBR green PCR master mix ( Fermentas ) according to the recommendations of the manufacturer in an ABI PRISM 7000 Sequence Detection System ( Applied Biosystems ) .
+RUNX1 and RUNX3 mRNA was detected by using TaqMan Gene Expression Assays from Applied Biosystems and used according to the manufacturer 's instruction using TaqMan master mix using a 7000 real-time PCR system ( Applied Biosystems ) .
+PCR amplification of the housekeeping gene encoding elongation factor ( EF ) -1alpha or by using the 18S rRNA Gene Expression Assay ( Applied Biosystems ) was performed to allow normalization between samples .
+Relative quantification and calculation of the range of confidence was performed using the comparative deltadeltaCT method ( Applied Biosystems ) .
+The percentage of FOXP3 mRNA in siRNA-mediated RUNX knockdown cells was calculated in relation to cells , which were transfected with scrambled control siRNA .
+Arbitrary units show the 2-(deltact) values multiplied by 10,000 incorporating the ct values of the gene of interest and the housekeeping gene .

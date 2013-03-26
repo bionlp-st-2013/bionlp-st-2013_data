@@ -1,0 +1,22 @@
+Identification of PKCalpha as the Upstream Activator of NF-kappaB in Myeloid Cells
+Even though the PKC family consists of 10 members, finding that PKCalpha/beta inhibitors and intracellular calcium inhibitors reduced M-CSF-induced NF-kappaB activity, suggested PKCalpha was involved in NF-kappaB activation after M-CSF treatment.
+To confirm the role of PKCalpha in NF-kappaB activation in macrophages, constructs for either wildtype (WT)-PKCalpha or kinase-deficient (KD)-PKCalpha was co-transfected with the pNF-kappaB-SEAP reporter gene and SEAP secretion was measured.
+As shown in Figure 7A, MDMs co-transfected with pNF-kappaB-SEAP and WT-PKCalpha had a 1.8-fold increase in NF-kappaB transcriptional activity after M-CSF activation compared with NS cells (p = 0.05), similar to M-CSF-treated cells expressing only pNF-kappaB-SEAP.
+Transfecting human macrophages with the KD-PKCalpha construct significantly reduced M-CSF-induced NF-kappaB activity compared to WT-PKCalpha transfected cells (p = 0.016).
+Similarly, RAW 264.7 cells transfected with WT-PKCalpha had 2.5-fold more NF-kappaB transcriptional activity after M-CSF activation compared to unstimulated RAW 264.7 cells (NS) transfected with WT-PKCalpha (Figure 7B).
+Expression of the KD-PKCalpha construct into RAW 264.7 cells reduced M-CSF-induced NF-kappaB activity to 1.5-fold (p = 0.045) compared to cells transfected with WT PKCalpha.
+Cell survival was also examined in MDMs expressing either WT-PKCalpha or KD-PKCalpha constructs by Annexin V-FITC and PI staining.
+As expected, M-CSF increased MDM survival as measured by the percent of Annexin V/PI negative cells.
+Similarly, expression of WT-PKCalpha protected cells from apoptosis.
+In contrast, expression of KD-PKCalpha decreased M-CSF-induced cell survival (p<0.01) (Figure 7C).
+Next, we examined the effect of expressing the PKCalpha constructs on NF-kappaB phosphorylation.
+As shown in Figure 7D, expression of KD-PKCalpha in RAW 264.7 cells did not affect the constitutive phosphorylation at Ser536 of NF-kappaB p65, but attenuated the phosphorylation at Ser276.
+Expression of WT-PKCalpha did not effect the phosphorylation of either residue with or without M-CSF stimulation.
+These observations demonstrate that PKCalpha is important in M-CSF-regulated cell survival and NF-kappaB activation and likely regulated through phosphorylation of Ser276 of NF-kappaB p65.
+To further validate the impact that PKCalpha played in M-CSF-induced NF-kappaB transcriptional activity, we next employed PKCalpha siRNA treatment of MDM or RAW cells.
+A pool of specific PKCalpha siRNA were transfected into MDM or Raw 264.7 cells in the presence or absence or M-CSF.
+Reducing native PKCalpha expression decreased M-CSF-induced NF-kappaB transcriptional activity in both MDM (Figure 7E) (p = 0.012) and Raw 264.7 cells (Figure 7F) (p = 0.01).
+We also examined cell survival of the MDMs by Annexin V-FITC and PI staining after PKCalpha siRNA transfection.
+As shown in Figure 7G, M-CSF-induced MDM survival was reduced in the cells transfected with PKCalpha siRNA compared with cells transfected with control siRNA (p = 0.047).
+In Figure 7H, we confirmed that PKCalpha siRNA transfection decreased PKCalpha protein expression in both MDM and Raw 264.7 cells.
+Our results indicated that PKCalpha regulated NF-kappaB activation and M-CSF-regulated cell survival.

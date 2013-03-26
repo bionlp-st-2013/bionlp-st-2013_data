@@ -1,0 +1,16 @@
+PKC is Essential in Regulating NF-kappaB Activity
+M-CSF-dependent PKC activity facilitated NF-kappaB p65 phosphorylation at Ser276 but not Ser536 .
+To confirm the role of PKC and p65 Ser276 phosphorylation on NF-kappaB activity , we co-transfected the NF-kappaB-SEAP construct with either WT NF-kappaB p65 or NF-kappaB p65 276S/A constructs in Raw 264.7 cells , then treated cells with the PKC inhibitor Ro-31-8220 in the absence or presences of M-CSF .
+As expected in cells transfected with vector control , inhibiting PKC reduced M-CSF-stimulated NF-kappaB activity compared to cells treated with M-CSF and the vehicle DMSO ( p = 0.001 ) ( Figure 8A ) .
+In contrast , expressing WT NF-kappaB p65 ( p65 WT ) increased NF-kappaB activity , while the general PKC inhibitor Ro-31-8220 decreased this NF-kappaB activity ( p = 0.001 ) .
+Notably , the introduction of NF-kappaB p65 276 S/A construct significantly reduced NF-kappaB activity compared with the WT NF-kappaB p65 construct ( p = 0.005 ) and M-CSF treatment was unable to overcome this inhibition .
+Furthermore , we co-transfected the NF-kappaB-SEAP construct along with either the WT NF-kappaB p65 , NF-kappaB p65 276S/A or NF-kappaB p65 536S/A constructs into a NF-kappaB p65-/- murine fibroblast cell line and measured NF-kappaB activity .
+As predicted , expression of WT NF-kappaB p65 ( p65 WT ) in NF-kappaB p65-/- cell line constitutively activated NF-kappaB compared to cells transfected with vector control without any stimulation ( Figure 8B ) .
+In comparison , transfecting the NF-kappaB p65 276S/A construct reduced NF-kappaB activity by 5-fold ( p = 0.006 , WT NF-kappaB p65 vs. NF-kappaB p65 276S/A ) , while expressing the NF-kappaB p65 536S/A construct increased NF-kappaB activity in the p65-/- cells to levels similar to WT NF-kappaB p65 transfected cells .
+Since M-CSF-induced PKC activation regulated NF-kappaB activity via Ser276 residue of NF-kappaB p65 in primary human MDMs and RAW 264.7 cells , we next examined if this occurred in NF-kappaB p65-/- fibroblasts in response to a native stimulus for these cells , TNFalpha .
+NF-kappaB activity was measured in the WT NF-kappaB p65 or NF-kappaB p65 276S/A transfected cells treated with TNFalpha in the absence or presence of Ro-31-8220 ( Figure 8C ) .
+As expected , TNFalpha increased NF-kappaB activity in NF-kappaB p65-/- cells expressing WT p65 and ( p = 0.001 ) PKC inhibitors decreased NF-kappaB activity to the non-stimulated ( NS ) level ( p = 0.007 ) .
+Introducing NF-kappaB p65 276 S/A constructs significantly reduced NF-kappaB activity compared with the WT NF-kappaB p65 construct ( p = 0.001 ) .
+Notably , TNFalpha failed to increase NF-kappaB activity in the NF-kappaB p65-/- cells expressing NF-kappaB p65 276S/A constructs .
+These observations are similar to macrophages overexpressing the NF-kappaB p65 276S/A ( Figure 8A ) .
+Our data demonstrate that Ser276 of NF-kappaB p65 is essential in regulating NF-kappaB activity and suggests that PKC regulates NF-kappaB activity by modulating the phosphorylation of NF-kappaB p65 at Ser276 residue .

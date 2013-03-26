@@ -1,0 +1,6 @@
+RNA Isolation and Quantitative Real-time PCR
+MDMs or RAW 264.7 cells were serum-starved overnight or for 2 hours , respectively , prior to incubating with inhibitors for 30 minutes .
+The cells were restimulated with 100 ng/ml M-CSF and total mRNA was extracted from cells with Trizol ( Invitrogen ) and 1-2 microg of total RNA was used to synthesized cDNA using SuperScript III ( Invitrogen ) .
+Quantitative real-time ( qRT ) -PCR was performed using SYBR Green Master Mix ( Applied BioSystems , Carlsbad , CA ) .
+The reactions were performed using an ABI PRIZM 7700 machine with software Sequence Detector version 1.7 ( Applied Biosystems ) .
+The target gene values were normalized to the values of GAPDH as a housekeeping gene and expressed as relative fold increase 2(-deltadeltaCt) over the non-stimulated samples ( NS ) .

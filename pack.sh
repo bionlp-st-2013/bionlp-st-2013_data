@@ -5,7 +5,7 @@
 # Author:   Pontus Stenetorp    <pontus stenetorp se>
 # Version:  2013-01-11
 
-VERSION=2
+VERSION=3
 SCRIPT_DIR=`dirname ${0}`
 
 for dir in `find ${SCRIPT_DIR}/* -maxdepth 1 -type d`

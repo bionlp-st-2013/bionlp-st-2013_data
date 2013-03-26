@@ -1,0 +1,2 @@
+Most cot genes, and the gerE gene, are transcribed by sigmaK RNA polymerase.
+

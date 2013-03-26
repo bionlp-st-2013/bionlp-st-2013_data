@@ -1,0 +1,7 @@
+DCAMKL1, a brain-specific transmembrane protein on 13q12.3 that is similar to doublecortin (DCX).
+Mutations in the human doublecortin (DCX), a brain-specific putative signaling protein, cause X-linked lissencephaly and subcortical band heterotopia.
+A predicted 740-amino-acid protein from human brain has two distinct regions, an N-terminal 345-amino-acid region 78% similar to the DCX protein and a C-terminal 427-amino-acid region that contains two transmembrane domains and is 98% homologous to a rat Ca2+/calmodulin-dependent protein kinase.
+We have designated this protein DCAMKL1.
+It maps to chromosome 13q12.3-q13, within a 540-kb YAC clone containing markers D13S805 and D13S1164.
+Northern analysis detected three major transcript isoforms of the DCAMKL1 gene expressed differentially and predominantly in human fetal and adult brain and during mouse embryogenesis (11-17 dpc).
+These results and its homology with the DCX and Ca2+/calmodulin dependent kinase proteins suggest a likely role for DCAMKL1 transmembrane protein in developing and adult brain, possibly in a pathway of cortical development.

@@ -1,0 +1,9 @@
+Burkholderia phytofirmans PsJN
+Burkholderia phytofirmans strain PsJN T belongs to the beta-Proteobacteria (Sessitsch et al., 2005) and was isolated surface-sterilized Glomus vesiculiferum -infected onion roots (Nowak et al., 1997).
+Other strains belonging to this species have been isolated from soils and rhizospheres.
+Cells are gram-negative, non-sporulating rods that grows in the presence of various sugars.
+The strain does not produce nitrate or nitrite.
+PsJN produces ACC deaminase activity probably contributing to the plant growth promoting abilities of the strain.
+It produces the quorum signaling compound 3-hydroxy-C8-homoserine lactone.
+Strain PsJN colonizes varios plants endophytically and in the rhizospheres and plant growth promotion have been reported with various plants such as potato, tomato, grapevine (Frommel et al., 1991; Nowak et al., 1995; Pillay and Nowak, 1997; Bensalim et al., 1998; Ait Barka et al., 2000; 2002; Compant et al., 2005).
+

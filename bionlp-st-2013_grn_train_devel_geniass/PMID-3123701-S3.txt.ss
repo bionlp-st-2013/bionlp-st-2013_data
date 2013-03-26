@@ -1,0 +1,2 @@
+Transcription of amyE initiates in vitro from a promoter recognized by the major vegetative form of RNA polymerase, E sigma 43.
+

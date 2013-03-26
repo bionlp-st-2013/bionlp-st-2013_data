@@ -1,0 +1,12 @@
+ChIP.
+Human naive CD4+ T cells were cultured either with IL-2 only or with IL-2, anti-CD2/3/28, and TGF-beta for 72 h, and protein-DNA complexes were fixed by cross-linking with formaldehyde in a final concentration of 1.42% for 15 min.
+Formaldehyde was quenched with 125 mM glycine for 5 min, and cells were subsequently harvested.
+The ChIP assay was performed as described in the fast chromatin immunoprecipitation method (Nelson et al., 2006).
+Cells were lysed with immunoprecipitation buffer (150 mM NaCl, 50 mM Tris-HCl, pH 7.5, 5 mM EDTA, NP-40 [0.5% vol/vol]) containing phosphatase (Roche) and protease inhibitors cocktails (Roche), the nuclear pellet was washed, the chromatin was sheared by sonication and incubated with antibodies for RUNX1 (H-65 X; Santa Cruz Biotechnology, Inc.), RUNX3 (H-50 X; Santa Cruz Biotechnology, Inc.), CBFbeta (PEBP2beta; FL-182 X; Santa Cruz Biotechnology, Inc.), and as controls normal rabbit IgG (Santa Cruz Biotechnology, Inc.), anti-human RNA polymerase II antibody, and mouse control IgG (both from SA Biosciences).
+The cleared chromatin was incubated with protein A agarose beads and, after several washing steps, DNA was isolated with 10% (wt/vol) Chelex 100 resin.
+Samples were treated with proteinase K at 55degreesC for 30 min.
+The proteinase K was then inactivated by boiling the samples for 10 min.
+The purified DNA was used in a real-time PCR reaction.
+Specific primers for the FOXP3 promoter, spanning the region from -87 to -3, FOXP3 promoter forward primer 5'-AGAGGTCTGCGGCTTCCA-3', FOXP3 promoter reverse primer 5'-GGAAACTGTCACGTATCAAAAACAA-3', or control GAPDH primer (SA Biosciences) for the RNA polymerase II were used.
+A negative control PCR for each immunoprecipitation using IGX1A negative control primer targeting ORF-free intergenic DNA (SA Biosciences) was used.
+The fold enrichment in site occupancy was calculated incorporating IgG control values and input DNA values using the ChampionChIP qPCR data analysis file (SA Biosciences).

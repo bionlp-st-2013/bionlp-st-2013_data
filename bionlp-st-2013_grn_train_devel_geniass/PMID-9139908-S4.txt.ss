@@ -1,0 +1,2 @@
+We overproduced and purified sigma(X) from Escherichia coli and demonstrate that in vitro, both sigma(A) and sigma(X) holoenzymes recognize promoter elements within the sigX-ypuN control region.
+

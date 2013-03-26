@@ -1,0 +1,62 @@
+NF-kappaB and AP-1 are critical regulators of inflammatory responses, proliferation and differentiation of T-cells [28-30], however, the signal transduction and subsequent cytokine/chemokine expression is not fully understood.
+The aim of the present study was to investigate IL-6 and CXCL8 regulation by NF-kappaB and AP-1 in Jurkat T-cells.
+Our results demonstrated that PMA induced AP-1 activation, indicating a specific activation of the MAPK pathway.
+Furthermore, we demonstrated that PMA dependent AP-1 activation in T-cells was delayed (>2 h) and increased following long-term treatment.
+MAPK is one of the main signalling pathways in T-cells that regulate cell- and transcriptional activation [31,32].
+Several studies [20,33,34] have indicated the importance of AP-1 in T-cell activation and the induction of inflammatory responses [35], including pro-inflammatory cytokine release.
+In contrast to AP-1, NF-kappaB activity rapidly increased (1 min) during PMA exposure followed by a down-regulation to the lowest levels at 6 h.
+This is in line with Park and colleagues [36] who demonstrated a rapid increase in NF-kappaB activity following short-term stimulation with PMA, but prolonged challenge resulted in a persistent inhibition of NF-kappaB.
+They showed that the inhibition of NF-kappaB was due to PKC-dependent degradation of IkappaB kinase beta and gamma in response to PMA.
+Interestingly, the HK E. coli exposure induced NF-kappaB activation without affecting AP-1 activity.
+Wang and colleagues [37] reported an elevated inflammatory response by obtaining expression of IL-6 following the exposure of T-cells to peptidoglycan.
+Reduction in NF-kappaB by calcium ionophore following HK E. coli stimulation may be due to the Ca2+ binding protein calmodulin (CaM), which has been shown to negatively regulate c-Rel when activated [38].
+The regulation of NF-kappaB and AP-1 observed in the present study was in agreement with earlier studies.
+T-cells produce a broad range of pro- and anti-inflammatory cytokines, including IL-2, IL-6, CXCL8, TNF and IL-10, in response to infections or other stress factors [39].
+The assessment of Jurkat T-cell inflammatory responses (Table 1) revealed an enhanced IL-2 expression upon exposure to PMA or HK E. coli due to PKC activation [40].
+In addition to the transcription factor NF-kappaB, AP-1 binding sites have been identified in the IL-6 promoter region, indicating multiple regulation [22].
+AP-1 and NF-kappaB have also been demonstrated to regulate CXCL8 expression during induction of inflammatory responses in T-cells [12].
+Furthermore, IL-6 and CXCL8 gene-expression is associated with an early immune response in Jurkat T-cells [41].
+In the present study, both PMA and HK E. coli resulted in comparable increases in IL-6 while PMA was more potent at activating CXCL8 release.
+PMA and HK E. coli treatment also induced TNF expression.
+TNF is one of the first cytokines induced by T-cells [42] and its expression is regulated by calcineurin, NFAT and ATF-2/Jun [20].
+However, PMA-stimulated Jurkat T-cells showed no difference in IL-10 expression indicating an induced inflammatory response.
+HK E. coli treatment resulted in a significant reduction of IL-10 expression.
+The anti-inflammatory cytokine IL-10 is known to inhibit T-cell activation, proliferation and the expression of pro-inflammatory cytokines, such as IL-2, IL-5 and INF-gamma [39,43] and regulate inflammatory responses by inducing T-cell anergy [44].
+The time course analysis of cytokine expression showed a correlation between AP-1 and the chemokine CXCL8 where CXCL8 expression was significantly elevated already at 2-6 h after PMA exposure.
+The CXCL8 expression did not correlate with the early NF-kappaB activation (1 min) or with the down-regulation of NF-kappaB at 2 h post exposure.
+Both IL-6 and TNF expression were up regulated between 6-24 h.
+During this period, NF-kappaB increased from its minimum level at 6 h.
+PKC has been shown to be associated with the activation of AP-1, but not with NF-kappaB activation of the IL-2 promoter [45].
+Mutation of the NF-kappaB site did not affect IL-2 expression, whereas mutation of the AP-1 site or PKC depletion almost revoked IL-2 release.
+These observations indicate that the MAPK pathway and the transcription factor AP-1 play an important role in the induction of inflammatory responses in Jurkat T-cells [12,20,22].
+The obtained results signify that CXCL8 was primarily regulated through the MAPK pathway.
+The NF-kappaB activation inhibitor (NAI) showed specificity against NF-kappaB and resulted in a complete IL-6 inhibition following induction with PMA and significant IL-6 reduction after HK E. coli treatment.
+CXCL8 was highly up regulated by PMA and the addition of NAI resulted in a minor reduction in CXCL8 expression.
+Furthermore, CXCL8 expression was not affected by NAI following HK E. coli treatment, indicating a lack of correlation between CXCL8 and NF-kappaB.
+Further analysis of CXCL8 expression revealed a down-regulation by PKC- and JNK- inhibitors, suggesting an involvement of AP-1 via PKC and JNK, respectively.
+Analysis of gene expression further confirmed that il-6 and cxcl8 were upregulated by PMA.
+Expression of il-6 dropped below basal levels following inhibition of NF-kappaB and JNK whereas cxcl8 remained elevated above basal levels (16.5-fold and 7.1-fold respectively) following the same treatment.
+Furthermore, inhibition of PKC did not result in a significant decrease of il-6 or cxcl8, which is in accordance with protein data (figure 6).
+These results suggest that NF-kappaB is involved in IL-6 regulation and release while it is not required for the expression of CXCL8 in Jurkat T cells.
+The transcription factor NF-kappaB is responsible for a rapid immune response which is followed by an increase in transcription of IkappaB thus inhibiting NF-kappaB [46].
+Activation of NF-kappaB in Jurkat T-cells is dependent on Bcl10 activation, which in turn is regulated by PKC.
+Recent studies have established the importance of a protein complex consisting of CARMA1, Bcl10 and MALT1 (CBM), in the induction of NF-kappaB.
+Investigating Bcl10, Scharschmidt and colleagues [47] demonstrated that it is a critical regulator of NF-kappaB activity.
+Down-regulation of Bcl10 from signals transduced via the TCR/CD28 and PKC resulted in a concomitant down-regulation of NF-kappaB.
+They suggested that Bcl10 is initially activated by TCR/PKC but that continued activation (>1 h) promotes its degradation.
+Narayan and colleagues [27] suggested that deletion in any of the three CBM complex proteins impairs antigen-receptor dependent activation of NF-kappaB.
+They showed that NF-kappaB activation via Akt requires CARMA1 and acts in cooperation with PKC following short-term exposure (30 min) of Jurkat T-cells with PMA.
+Akt phosphorylates and thus activates Bcl10.
+These studies indicate that PKC is crucial for NF-kappaB activation following short-term treatment through signals via membrane bound receptors such as the TCR and the co-stimulatory receptor CD28.
+Thus, the CBM complex proteins play a key role in this signalling process.
+PMA diffuses into the cytosol and directly activates PKC since it is an analogue to diacylglycerol [48].
+Several studies have demonstrated that inhibition of PKC blocks NF-kappaB and AP-1 activity, suggesting a direct regulation of these transcription factors by PKC [49,50].
+PKC is activated at an early stage following T-cell stimulation and is therefore an important regulator of downstream inflammatory signalling pathways leading to cytokine expression [50].
+We have shown that phosphorylated-PKC is up regulated in response to PMA and HK E. coli, indicating an association between PKC and the transcription factors AP-1 and NF-kappaB.
+Bcl10 levels were down-regulated following extended treatment of Jurkat T-cells with PMA.
+In the control groups, a loss of Bcl10 occurred after 6 h, followed by an increase after 24 h, which is in accordance with the observed NF-kappaB activity (figure 7).
+These results are supported by an earlier study [47], demonstrating that prolonged PKC activation by PMA leads to an inhibition of Bcl10 and NF-kappaB.
+It has been shown that NF-kappaB is an important transcription factor complex involved in almost every aspect of cell regulation including apoptosis, differentiation, proliferation and initiation of immune responses [51-53].
+NF-kappaB is constitutively active in many human malignancies, which makes it an attractive therapeutic target [54].
+Elevated CXCL8 levels during chronic inflammation result in an enhanced recruitment of immune cells to the site of infection, which may lead to the development of autoimmune diseases following secretion of pro-inflammatory cytokines.
+In HIV infected persons, serum CXCL8 levels are elevated and this could recruit more T-cells potentially leading to a more rapid progression of the disease since there will be more T-cells available to infect.

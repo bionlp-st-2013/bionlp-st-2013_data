@@ -1,0 +1,5 @@
+DLX2 (TES1), a homeobox gene of the Distal-less family, assigned to conserved regions on human and mouse chromosomes 2.
+Dlx-2 (also called Tes-1), a mammalian member of the Distal-less family of homeobox genes, is expressed during murine fetal development in spatially restricted domains of the forebrain.
+Searching for a candidate neurological mutation that might involve this gene, we have assigned the human and mouse loci to regions of conserved synteny on human chromosome 2, region cen--q33, and mouse chromosome 2 by Southern analysis of somatic cell hybrid lines.
+An EcoRI dimorphism, discovered in common inbred laboratory strains, was used for recombinant inbred strain mapping.
+The results place Dlx-2/Tes-1 near the Hox-4 cluster on mouse chromosome 2.

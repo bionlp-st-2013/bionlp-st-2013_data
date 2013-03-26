@@ -1,0 +1,5 @@
+Purification of Peripheral Blood Monocytes and Monocyte-Derived Macrophages (MDMs)
+Monocytes were isolated from source leukocyte packs obtained from the American Red Cross as described previously [51].
+Monocytes used in real time PCR experiments and transfection experiments were purified by positive selection using CD14 Monocyte Isolation Kit from Miltenyi Biotech (Auburn, CA) (>90% pure).
+In some experiments, monocytes were isolated by clumping method (70% pure).
+To obtain monocyte-derived macrophages (MDMs), monocytes were cultured in RPMI-1640 medium containing 10% FBS, and 10 microg/ml polymyxin B and 20 ng/ml M-CSF.

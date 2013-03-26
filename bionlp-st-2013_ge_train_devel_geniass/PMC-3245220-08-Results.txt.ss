@@ -1,0 +1,9 @@
+M-CSF-dependent PKC Regulates NF-kappaB-targeted Genes
+NF-kappaB induces a number of downstream genes, including the IkappaB family.
+Among the IkappaB molecules, IkappaBalpha is highly induced by NF-kappaB activation [40].
+Having shown that PKC regulated NF-kappaB activity in M-CSF-stimulated MDMs, we next determined whether inhibition of PKC activity decreased expression of NF-kappaB-regulated genes.
+We treated both MDMs and RAW 264.7 cells with the PKC inhibitor Ro-31-8220 for 30 minutes and then stimulated with M-CSF.
+IkappaBalpha gene was measured by qRT-PCR.
+As shown in Figures 6A and 6B, M-CSF enhanced IkappaBalpha gene expression and PKC inhibition by Ro-31-8220 decreased IkappaBalpha gene expression in both MDMs and RAW 264.7 cells (p<0.01), demonstrating that PKC affected NF-kappaB-regulated gene expression in macrophages.
+To further define the role of PKC in mediating human MDM survival in response to M-CSF, we examined the expression of the anti-apoptotic gene BCL-xL, which is also regulated by NF-kappaB.
+As shown in Figure 6C, Ro-31-8220 reduced M-CSF-stimulated BCL-xL expression compared to cells treated with M-CSF and the vehicle control DMSO (p<0.05).

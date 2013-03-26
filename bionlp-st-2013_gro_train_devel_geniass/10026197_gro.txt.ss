@@ -1,0 +1,8 @@
+Cell adhesion regulates the interaction between the docking protein p130(Cas) and the 14-3-3 proteins.
+Integrin ligand binding induces a signaling complex formation via the direct association of the docking protein p130(Cas) (Cas) with diverse molecules.
+We report here that the 14-3-3zeta protein interacts with Cas in the yeast two-hybrid assay.
+We also found that the two proteins associate in mammalian cells and that this interaction takes place in a phosphoserine-dependent manner, because treatment of Cas with a serine phosphatase greatly reduced its ability to bind 14-3-3zeta.
+Furthermore, the Cas-14-3-3zeta interaction was found to be regulated by integrin-mediated cell adhesion.
+Thus, when cells are detached from the extracellular matrix, the binding of Cas to 14-3-3zeta is greatly diminished, whereas replating the cells onto fibronectin rapidly induces the association.
+Consistent with these results, we found that the subcellular localization of Cas and 14-3-3 is also regulated by integrin ligand binding and that the two proteins display a significant co-localization during cell attachment to the extracellular matrix.
+In conclusion, our results demonstrate that 14-3-3 proteins participate in integrin-activated signaling pathways through their interaction with Cas, which, in turn, may contribute to important biological responses regulated by cell adhesion to the extracellular matrix.

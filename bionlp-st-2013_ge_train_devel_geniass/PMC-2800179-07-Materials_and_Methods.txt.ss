@@ -1,0 +1,8 @@
+Cell Surface Antigen Expression Analysis
+Peripheral Blood Monocytes or THP-1 cells were exposed to complete medium in the presence or absence of carrageenan for 36 h.
+After two washes in PBS without Ca2+ and Mg2+, cells were incubated in PBS containing 0.1% gelatin and 8% AB human serum to prevent binding to Fc receptors.
+Then, 5x105 cells were incubated with primary antibodies at 4degreesC for 30 min.
+Two other washes in PBS preceded incubation with FITC-conjugated goat antibody anti-mouse IgG diluted 1/1000 at 4degreesC for 30 min (Tebu).
+After two additional washes, analysis of stained cells was performed on an EPICS XL2 (Beckman-Coulter).
+The cell population was gated according to its forward and wide-angle light scattering.
+Data were expressed as mean relative fluorescence intensity (MFI) of 3000 cells.

@@ -1,0 +1,6 @@
+Enzyme-linked immunosorbent assay (ELISA)
+ELISA was performed on supernatants from challenged Jurkat T-cells to quantify IL-6, CXCL8 and TNF (BD OptEIA Human IL-6 Elisa Set, BD OptEIA Human CXCL8 Elisa Set and BD OptEIA Human TNF Elisa Set, Biosciences, USA) according to the manufacturer's instructions.
+Briefly, Jurkat T-cells were stimulated with PMA (162 nM) for 1 h, centrifuged (1000 x g, 8 min) and the supernatants were collected and stored at -80degreesC until use.
+Following centrifugation, the cells were resuspended in 1 h aged media, where cells have been grown in, containing PMA.
+The same procedure was performed to collect media after 2 h and 6 h.
+The final collection of media was performed after 24 h.

@@ -1,0 +1,10 @@
+Treponema pallidum
+Treponema pallidum causes Syphilis
+Treponema pallidum is the causative agent of syphilis.
+Syphilis is characterised by multiple clinical stages and long periods of latent, asymptomatic infection.
+The primary infection is localised, but organisms rapidly disseminate and cause manifestations throughout the body.
+Veneral syphilis was first diagnosed as early as the 1400's and although effective therapies have been available since the introduction of penicillin, syphilis remains an important global health problem.
+The organism is a spirochete, a helical to sinusoidal bacterium with outer and cytoplasmic membranes, a thin peptidoglycan layer and flagella that lie in the periplasmic space and extend from both ends toward the middle of the organism.
+T. pallidum is an obligate human parasite that cannot be cultured continuously in vitro.
+As the mechanism of pathogenesis is poorly understood, existing diagnostic tests for syphilis are suboptimal and no vaccine against T. pallidum is available.
+

@@ -1,0 +1,7 @@
+BCL6 can repress transcription from the human immunodeficiency virus type I promoter/enhancer region.
+The gene BCL6 encodes a zinc finger protein with similarities to transcription factors.
+We previously reported that a number of viral genomes, including human immunodeficiency virus type I (HIV-1), contain sequences which are similar to the BCL6 DNA-binding consensus in their promoter regions.
+Electrophoretic mobility shift assays showed that the full-length BCL6 protein extracted from transfected COS cells and a bacterially expressed truncated protein containing the BCL6 zinc fingers can bind specifically to DNA from the U3 promoter/enhancer region of HIV-1.
+Transient transfections were performed to analyze the effects of the BCL6 protein on luciferase expression driven by the HIV-1 long terminal repeat (LTR) sequences.
+Full-length BCL6 significantly repressed luciferase activity compared with multiple controls.
+We conclude that the BCL6 protein can bind to the HIV-1 promoter-enhancer region and contains a domain upstream of its zinc fingers that can repress transcription from the HIV-1 LTR.

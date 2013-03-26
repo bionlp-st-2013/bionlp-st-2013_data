@@ -1,0 +1,2 @@
+These observations confirm that spoIIAB is essential for sporulation and are consistent with models in which the product of spoIIAB plays a role in regulating the timing and/or compartment specificity of sigma F- and sigma G-directed transcription.
+

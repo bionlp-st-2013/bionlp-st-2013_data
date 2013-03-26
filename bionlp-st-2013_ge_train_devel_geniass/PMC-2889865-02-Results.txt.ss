@@ -1,0 +1,13 @@
+Regulation of AP-1 and NF-kappaB activation
+The transcription factors NF-kappaB and AP-1 play key roles in the initiation of an inflammatory response by inducing the expression and secretion of chemokines and cytokines that attract and activate immune cells.
+However, the signal transduction pathways and subsequent inflammatory cytokine induction by these transcription factors is not fully elucidated.
+The present study is aimed at determining the involvement of AP-1 and NF-kappaB in cytokine induction and regulation.
+PMA treatment resulted in an up-regulation of AP-1 after 2 h exposure and continued to increase throughout the analysis period (figure 1a).
+HK E. coli treatment did not affect AP-1 activation in Jurkat T-cells (figure 1b).
+To determine the involvement of associated pathways, we exposed cells to Ca2+ ionophore with or without PMA and observed a modest involvement of Ca2+ in PMA-dependent AP-1 activation (figure 1c) while Ca2+ alone did not alter AP-1 activity (data not shown).
+Furthermore, AP-1 activity decreased in a TCR-deficient Jurkat cell line when exposed to PMA compared to the parent cell line indicating that regulation of AP-1 was only partially T-cell receptor dependent (figure 1d).
+NF-kappaB levels showed a transient increase at 1 min after exposure to PMA (figure 2a).
+However, 1 h after exposure the NF-kappaB levels began to drop reaching the lowest levels by 6 h, after which they increased again by 24 h.
+Exposure of Jurkat T-cells to HK E. coli resulted in a dose-dependent NF-kappaB activation, with the highest activity observed at a relative concentration of 5 x 107 CFU/ml (figure 2b).
+The time-dependent activation of NF-kappaB by HK E. coli was assessed further using the optimal concentration obtained from figure 2b and showed that the NF-kappaB activity increased after 3 h of exposure (figure 2c).
+Furthermore, increased intracellular Ca2+ reversed the PMA dependent NF-kappaB inhibition (figure 2d) and reduced the HK E. coli -dependent NF-kappaB activation (figure 2e).

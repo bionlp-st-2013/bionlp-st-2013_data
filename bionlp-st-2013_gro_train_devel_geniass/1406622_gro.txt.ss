@@ -1,0 +1,7 @@
+Characterization of Spi-B, a transcription factor related to the putative oncoprotein Spi-1/PU.1.
+We have cloned a human cDNA from a new gene, spi-B, on the basis of its homology with the DNA-binding domain of the Spi-1/PU.1 putative oncogene product.
+spi-B codes for a protein of 262 amino acids presenting 43% overall identity with Spi-1.
+Its highly basic carboxy-terminal region exhibits 34% sequence identity with the DNA-binding domain of the Ets-1 protein.
+We showed that the Spi-B protein is able to bind the purine-rich sequence (PU box) recognized by Spi-1/PU.1 and to activate transcription of a reporter plasmid containing PU boxes.
+Chromosome in situ hybridization allowed us to map spi-B to the 19q13.3-19q13.4 region of the human genome.
+spi-B, like spi-1, was found to be expressed in various murine and human hematopoietic cell lines except T lymphoid cell lines.

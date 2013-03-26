@@ -1,0 +1,16 @@
+Degraded CGN Induced-TNF-alpha Production by Monocytes In Vitro
+In order to study the capacity of dCGN to stimulate TNF-alpha production, peripheral blood monocytes were cultivated in the presence of dCGN (0.1 to 1 mg/ml).
+Very low levels of TNF-alpha were induced in PBM after stimulation with native CGN (Fig. 2A).
+Addition of 0.1 mg/ml 10 kDa dCGN resulted in approximately a 60-fold increase in TNF-alpha production by PBM.
+This was a dose-dependent effect that reached a 180-fold increase when cells were exposed to 1 mg/ml of 10 kDa dCGN (Fig. 2A).
+A 250-fold increase in TNF-alpha production was detected at 1 mg/ml 40 kDa dCGN (Fig. 2A).
+TNF-alpha production increased in time reaching a maximum level at 8 hours of culture (Figure 2B).
+After 24 h, the amount of secreted TNF-alpha was still one third of the total TNF-alpha.
+Lipopolysaccharide (LPS), a known activator of immune cells also induced TNF-alpha production with similar kinetics as dCGN (Fig. 2B).
+However, the amount of TNF-alpha produced by LPS was 4-fold less than the one produced by dCGN and it was not detected after 8 hours of culture (Fig. 2B).
+Similarly, monocytic THP-1 cells cultivated in the presence of variable concentration of dCGN showed an increase in TNF-alpha production (Fig. 2C).
+This increase in TNF-alpha production was significantly smaller (about 10-fold) than the one presented by PBM (Fig. 2A).
+No TNF-alpha was released from THP-1 cells exposed to native CGN (not shown).
+TNF-alpha production by THP-1 cells was not dose dependent to the amount of dCGN used.
+Also there was no difference between the two forms (10 and 40 kDa) of dCGN (Fig. 2C).
+Interestingly, TNF-alpha release from THP-1 cells stimulated with dCGN reached a maximum level at 32 h, while stimulation with LPS reached a maximum level at 56 h (Fig. 2D).

@@ -1,0 +1,20 @@
+Deletion of a single allele of the Dkk1 gene leads to an increase in bone formation and bone mass. 
+Wnt/beta-catenin signaling has been proven to play a central role in bone biology.
+Unexpectedly, the Wnt antagonist Dkk2 is required for terminal osteoblast differentiation and mineralized matrix formation.
+We show that Dkk1, unlike Dkk2, negatively regulates osteoblast differentiation and bone formation.
+INTRODUCTION: The Wnt co-receptor LRP5 is a critical regulator of bone mass.
+Dickkopf (Dkk) proteins act as natural Wnt antagonists by bridging LRP5/6 and Kremen, inducing the internalization of the complex.
+Wnt antagonists are thus expected to negatively regulation bone formation.
+However, Dkk2 deficiency results in increased bone, questioning the precise role of Dkks in bone metabolism.
+MATERIALS AND METHODS: In this study, we investigated specifically the role of Dkk1 in bone in vitro and in vivo.
+Using rat primary calvaria cells, we studied the effect of retroviral expression of Dkk1 on osteoblast differentiation.
+In addition, the effect of Dkk1 osteoblast was studied in MC3T3-E1 cells by means of recombinant protein.
+Finally, to address the role of Dkk1 in vivo, we analyzed the bone phenotype of Dkk1(+/-) animals.
+RESULTS: Retroviral expression of Dkk1 in rat primary calvaria cells resulted in a complete inhibition of osteoblast differentiation and formation of mineralized nodules, with a marked decrease in the expression of alkaline phosphatase.
+Dkk1 expression also increased adipocyte differentiation in these cell cultures.
+Recombinant murine Dkk1 (rmDkk1) inhibited spontaneous and induced osteoblast differentiation of MC3T3-E1 cells.
+To determine the role of Dkk1 in vivo and overcome the embryonic lethality of homozygous deletion, we studied the bone phenotype in heterozygous Dkk1-deficient mice.
+Structural, dynamic, and cellular analysis of bone remodeling in Dkk1(+/-) mice showed an increase in all bone formation parameters, with no change in bone resorption, leading to a marked increase in bone mass.
+Importantly, the number of osteoblasts, mineral apposition, and bone formation rate were all increased several fold.
+CONCLUSIONS: We conclude that Dkk1 protein is a potent negative regulator of osteoblasts in vitro and in vivo.
+Given that a heterozygous decrease in Dkk1 expression is sufficient to induce a significant increase in bone mass, antagonizing Dkk1 should result in a potent anabolic effect.

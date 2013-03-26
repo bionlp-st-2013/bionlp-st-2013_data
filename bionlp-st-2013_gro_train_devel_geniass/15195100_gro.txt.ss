@@ -1,0 +1,9 @@
+PML regulates p53 stability by sequestering Mdm2 to the nucleolus.
+The promyelocytic leukaemia (PML) tumour-suppressor protein potentiates p53 function by regulating post-translational modifications, such as CBP-dependent acetylation and Chk2-dependent phosphorylation, in the PML-Nuclear Body (NB).
+PML was recently shown to interact with the p53 ubiquitin-ligase Mdm2 (refs 4-6); however, the mechanism by which PML regulates Mdm2 remains unclear.
+Here, we show that PML enhances p53 stability by sequestering Mdm2 to the nucleolus.
+We found that after DNA damage, PML and Mdm2 accumulate in the nucleolus in an Arf-independent manner.
+In addition, we found that the nucleolar localization of PML is dependent on ATR activation and phosphorylation of PML by ATR.
+Notably, in Pml(-/-) cells, sequestration of Mdm2 to the nucleolus was impaired, as well as p53 stabilization and the induction of apoptosis.
+Furthermore, we demonstrate that PML physically associates with the nucleolar protein L11, and that L11 knockdown impairs the ability of PML to localize to nucleoli after DNA damage.
+These findings demonstrate an unexpected role of PML in the nucleolar network for tumour suppression.

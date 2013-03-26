@@ -1,0 +1,42 @@
+Geobacillus kaustophilus
+Genus: Geobacillus species: kaustophilus
+Description and significance
+This microbe was isolated from the deep-sea sediment of the Mariana Trench (2).
+Its optimal growth is at a temperature of 60 degrees Celsius with a temperature limit of 74 degrees Celsius (2).
+Bacillus is translated as "small rod," and geo is "earth" or "soil" so the genus name is roughly translated to earth or soil small rod (6).
+In its species name, "kausto" means "heat" while "philus" means love (2).
+Therefore, it is a heating-loving bacteria.
+Geobacillus kaustophilus grow in aquatic environments.
+Other species in the genus Geobacillus can also be found in petroleum reservoirs and cool soil environments (3).
+Species in the Geobacillus genus can live in a wide variety of environments.
+The microbe can withstand a pH of 2 through 12, temperatures between 5 and 78 degrees Celsius, and a salinity of 0 to 30% (5).
+
+
+Application to Biotechnology
+In recent studies, it was discovered that a strain of isolated bacteria from a culture of Geobacillus strain T1 was able to produce the enzyme lipase (4).
+This purified sample of bacteria were aerobic, Gram-positive, endospore-forming, and rod-shaped.
+Lipase is a vital enzyme that is used frequently in our bodies.
+Lipases "catalyze the hydrolysis of long chain triglyceride into diacylglyceride, monoglyceride, glycerol and free fatty acids" (4).
+They also aid in the reverse reaction of hydrolysis to produce esters from alcohol or fatty acids.
+What is unique in this finding is that the lipase is thermostable, which means that it can withstand high temperatures.
+This is beneficial in industries and diagnostic equipment since the enzyme will not denature under high temperature.
+Lipase also contributes in the flavoring of diary products and as medicine to help digest food.
+With its thermostable characteristic, it can create a wider range of products (4).
+Unfortunately, Geobacillus strain T1 will not have a major role in the production of lipase anywhere in the near future.
+Not only does it have a low yield of the enzyme, but the equipment required for its high temperature fermentation is also expensive (4).
+Current Research
+1. Detecting Antibiotic Residues: An assay is being developed with Geobacillus kaustophilus as the central element in order to detect the presence of antibiotics.
+In this assay, the concentration of antibiotics in food or other contaminated substances can be identified within 1.5 to 4.5 hours.
+What is unique about this technique of using Geobacillus kaustophilus is that it can detect concentrations of antibiotics up to the maximum level allowed in food.
+(7) 2.
+Thermoadaptation trait revealed by the genome sequence of thermophilic Geobacillus kaustophilus: The genone sequence of Geobacillus genus were compared to that of mesophiles, which are organisms that grow best in moderate temperature.
+After comparing the results, there were some amino acids substitutions in Geobacillus that could possibly be responsible for the thermophilic nature of Geobacillus species.
+This was the first time that these differences in genome structure were founded.
+(5) 3.
+Lipase from Geobacillus sp. strain T1: A pure strain of Geobacillus sp.
+Strain T1 bacteria was isolated from Palm Oil Mill Effluent and was discovered to be able to produce thermally-stable lipase T1.
+Lipase is a vital part of metabolism in organisms.
+It is an enzyme that hydrolyzes fat to make free fatty acids.
+The development of this discovery could lead to new medicines for digestive problems and a widening of flavors for dairy products.
+However, the study is still a work in progress since the lipase yield is low and the high temperature equipment is expensive. (4)
+

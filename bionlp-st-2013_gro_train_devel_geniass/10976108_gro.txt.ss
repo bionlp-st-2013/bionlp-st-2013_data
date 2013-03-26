@@ -1,0 +1,9 @@
+RET finger protein is a transcriptional repressor and interacts with enhancer of polycomb that has dual transcriptional functions.
+RET finger protein (RFP) belongs to the large B-box RING finger protein family and is known to become oncogenic by fusion with RET tyrosine kinase.
+Although RFP is reported to be a nuclear protein that is present in the nuclear matrix, its function is largely unknown.
+Here we show that RFP interacts with Enhancer of Polycomb (EPC) and strongly represses the gene transcription.
+Yeast two-hybrid assays revealed that the coiled-coil domain of RFP was associated with the EPcA domain and the carboxyl-terminal region of EPC.
+In addition, both proteins were co-precipitated from the lysates of human cells and mostly colocalized in the nucleus.
+Using the luciferase reporter-gene assay, we found that they repress the gene transcription activity independent of the differences of enhancers and promoters used, although the repressive activity of RFP was much stronger than that of EPC.
+The coiled-coil domain of RFP and the carboxyl-terminal region of EPC were most important for the repressive activity of each protein, whereas the EPcA domain had the transcription activating ability that is unique as the Polycomb group protein function.
+These results suggested that RFP may be involved in the epigenetic gene silencing mechanism cooperating with Polycomb group proteins and that EPC is a unique molecule with both repressive and transactivating activities.

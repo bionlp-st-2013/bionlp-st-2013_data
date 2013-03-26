@@ -1,0 +1,8 @@
+Bordetella petrii DSM 12804
+Description
+Bordetella petrii strain DSM12804.
+Bordetella petrii strain DSM12804 was initially isolated from river sediment.
+Unlike other members of the genus, this organism is not known to be associated with humans or other warm-blooded animals.
+Bordetella petrii also differs from other Bordetella species in that it is a facultative anaerobe.
+This strain is the type strain for the species and will be used for comparative genomics with other Bordetella species.
+

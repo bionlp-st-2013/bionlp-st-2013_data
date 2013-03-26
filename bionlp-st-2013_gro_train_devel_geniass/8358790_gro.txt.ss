@@ -1,0 +1,9 @@
+Bcl-2 heterodimerizes in vivo with a conserved homolog, Bax, that accelerates programmed cell death.
+Bcl-2 protein is able to repress a number of apoptotic death programs.
+To investigate the mechanism of Bcl-2's effect, we examined whether Bcl-2 interacted with other proteins.
+We identified an associated 21 kd protein partner, Bax, that has extensive amino acid homology with Bcl-2, focused within highly conserved domains I and II.
+Bax is encoded by six exons and demonstrates a complex pattern of alternative RNA splicing that predicts a 21 kd membrane (alpha) and two forms of cytosolic protein (beta and gamma).
+Bax homodimerizes and forms heterodimers with Bcl-2 in vivo.
+Overexpressed Bax accelerates apoptotic death induced by cytokine deprivation in an IL-3-dependent cell line.
+Overexpressed Bax also counters the death repressor activity of Bcl-2.
+These data suggest a model in which the ratio of Bcl-2 to Bax determines survival or death following an apoptotic stimulus.

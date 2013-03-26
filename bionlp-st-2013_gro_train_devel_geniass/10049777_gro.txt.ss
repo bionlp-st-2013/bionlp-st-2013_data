@@ -1,0 +1,6 @@
+Cloning and characterization of a cDNA encoding a novel fibroblast growth factor preferentially expressed in human heart.
+A novel human fibroblast growth factor (hFGF), which shows 75% sequence homology with fibroblast growth factor-9, was isolated in random sequencing of a human heart cDNA library.
+The full-length sequence is 928 bp, the encoded protein is composed of 168 amino acid residues, and its pI value and molecular weight were estimated to be 8.13 and 19.1 kDa, respectively.
+RT-PCR using Marathon human heart cDNA shows that the coding region is approximately 507 bp.
+Southern hybridization showed a single band which indicates that this is a single copy gene.
+Northern hybridization done on a human multiple tissues blot showed that the gene is preferentially expressed in human heart, very weakly detectable in human brain and not detectable in 18 other different human tissues.

@@ -1,0 +1,2 @@
+Bacillus subtilis Spo0A activates transcription from both sigmaA- and sigmaH-dependent promoters.
+

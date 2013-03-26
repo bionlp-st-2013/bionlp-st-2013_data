@@ -1,0 +1,3 @@
+Degraded CGN Induce an Increase in ICAM-1 and TNF-alpha mRNA Expression
+The increase in surface ICAM-1 expression and TNF-alpha production by monocytes correlated with an upregulation of mRNA for these molecules.
+Both 10 kDa and 40 kDa dCGN induced a robust increase in mRNA for both ICAM-1 and TNF-alpha (Fig. 6). beta-actin mRNA levels were not affected by dCGN treatment.

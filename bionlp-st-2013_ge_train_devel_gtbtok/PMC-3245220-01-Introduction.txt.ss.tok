@@ -1,0 +1,49 @@
+Monocytes are produced in the bone marrow and circulate in blood for 24-48 hours [ 1 ] .
+In the absence of serum , monocytes die via apoptosis [ 1 ] , [ 2 ] .
+Macrophage colony-stimulating factor ( M-CSF ) stimulates mononuclear phagocyte survival and differentiation [ 3 ] .
+Importantly , M-CSF-mediated cell survival and activation is associated with a variety of human diseases , including atherosclerosis , transplant vascular sclerosis and breast cancer metastasis [ 4 ] , [ 5 ] , [ 6 ] .
+We previously identified that NF-kappaB activation is important in M-CSF-induced monocyte survival [ 7 ] .
+In addition to its role in mononuclear phagocyte survival , the transcription factor NF-kappaB regulates numerous genes that play important roles in cellular signaling , stress response , cell growth , survival , differentiation and inflammation [ 8 ] .
+There are five members in the NF-kappaB family : RelA/p65 , p50 , p52 , c-Rel and RelB .
+The most common activating complex is the p50/p65 heterodimer , driven by the activation domain in the NF-kappaB p65 subunit .
+NF-kappaB p65 regulates important developmental processes [ 9 ] , [ 10 ] .
+Mice lacking NF-kappaB p65 die in utero and have extensive liver damage via enhanced apoptosis [ 9 ] .
+Embryonic macrophages from NF-kappaB p65 null mice are susceptible to TNFalpha-induced apoptosis which is rescued by overexpressing the NF-kappaB p65 subunit [ 10 ] .
+Moreover , inhibiting NF-kappaB induces cell death in many cell types and cytokine-independent survival is mediated by constitutively active NF-kappaB in murine macrophages [ 11 ] .
+In monocytes and macrophages , NF-kappaB is an important transcriptional factor for expression of cytokines and cell surface receptors [ 12 ] .
+However , unlike resting T-cells , NF-kappaB is constitutively present in the nuclei of primary monocytes and monocytic cell lines in the absence of exogenous stimuli as demonstrated by mobility shift analysis [ 13 ] .
+Similarly , constitutively active NF-kappaB was observed in human alveolar macrophages [ 14 ] .
+In the classic/canonical pathway , the NF-kappaB p50/p65 complex is sequestered in the cytosol by IkappaBalpha [ 15 ] .
+Upon stimulation by cytokines or UV radiation , IkappaBalpha is phosphorylated , ubiquitinated , and degraded , releasing NF-kappaB p50/p65 to translocate to the nucleus and transactivate target genes .
+After its release from IkappaBalpha , NF-kappaB p65 can undergo post-translational modification to activate gene transcription .
+The role of NF-kappaB p65 phosphorylation on NF-kappaB transcriptional activity varies by stimulus , time of stimulation and cell type [ 16 ] .
+Previous research shows that phosphorylation of NF-kappaB p65 at Ser276 , Ser529 or Ser536 plays an important role in regulating transcriptional activity of NF-kappaB [ 17 ] .
+In TNFalpha-treated murine fibroblasts , Ser276 of NF-kappaB p65 is phosphorylated by MSK1 to enhance NF-kappaB transcriptional activity [ 18 ] .
+In macrophages treated with endotoxin , NF-kappaB transcription activity is associated with phosphorylation on Ser276 and Ser536 that is regulated through protein kinase A ( PKA ) and IKKbeta respectively[16] , [ 19 ] .
+In human T cells , NF-kappaB p65 is constitutively phosphorylated on Ser536 to facilitate NF-kappaB p65 nuclear translocation following cellular stimulation [ 20 ] .
+Accumulating evidence reveals that NF-kappaB p65 phosphorylation at Ser276 is crucial for its transcriptional activity .
+Upon nuclear translocation , phosphorylation of Ser276 on NF-kappaB p65 by PKA recruits the transcription co-activator , p300 to potentiate NF-kappaB-regulated gene transcription [ 21 ] .
+However , other studies show that PKA inhibits NF-kappaB-regulated gene expression by stabilizing IkappaBalpha [ 22 ] , [ 23 ] .
+Interestingly , the serine/threonine kinase Pim-1 directly phosphorylates NF-kappaB p65 at Ser276 by stabilizing to prevent ubiquitin-proteasome degradation [ 24 ] .
+Several other phosphorylation sites are also described to enhance NF-kappaB gene transactivation [ 25 ] .
+Here , we investigate the role of protein kinase C ( PKC ) in M-CSF-stimulated NF-kappaB activation .
+PKC proteins are multifunctional kinases that differ in structure , function and co-factor requirement [ 26 ] .
+PKCs are involved in diverse cell responses , including cell growth , survival , differentiation and development [ 27 ] .
+The 12 closely related enzymes of the PKC family are divided into three classes : conventional ( cPKCs : alpha betaI betaII and gamma require Ca2+ and diacylglycerol ( DAG ) ; novel ( nPKCs : delta , epsilon , eta , theta and mu ) require DAG ; and atypical ( aPKCs : xi , iota and lambda ) require neither Ca2+ nor DAG .
+Monocytes and macrophages predominantly express conventional PKC isoforms ( PKCalpha PKCbetaI and PKCbetaII ) and novel PKCs ( PKCdelta and PKCepsilon ) .
+Conventional PKCs regulate differentiation of the human promyelocytic leukemia cell line HL60 to macrophages [ 28 ] .
+PKCalpha induces IL-1alpha , iNOS and TNFalpha mRNA production after lipopolysaccharide ( LPS ) exposure [ 29 ] .
+In addition , accumulating evidence suggests that conventional PKCs like PKCalpha have anti-apoptotic functions .
+For example , PKCalpha is overexpressed in a variety of tumor cells including gliomas , liver , and lung [ 30 ] , [ 31 ] .
+In epithelial cells , inhibition of PKCalpha induces PKCdelta-dependent apoptosis [ 31 ] .
+Interestingly , in human monocytes and premonocytic THP-1 leukemia cells , novel PKCs like PKCdelta have the opposite effect on cell survival , Voss et al showed that PKCdelta directly phosphorylates caspase-3 and promotes etoposide-induced apoptosis [ 32 ] .
+Moreover , knockout mouse studies suggest that another novel PKC , PKCepsilon is critically involved in early LPS-mediated signaling in activated macrophages [ 33 ] .
+Previously , we reported that M-CSF promotes monocyte survival through the activation of the PI3-K/AKT pathway [ 3 ] .
+In addition to AKT activation , M-CSF stimulates PKC in human monocytes and increases NF-kappaB DNA binding [ 34 ] .
+However , whether PKC and/or NF-kappaB activation is critical in M-CSF-stimulated mononuclear phagocyte survival and/or differentiation is unclear .
+In other cells , PKC plays an important role in NF-kappaB activation and cell survival [ 35 ] , however the specific mechanisms of this activation and the biological effects on cellular phenotype are not known .
+Therefore , we focused at understanding the role of PKC in the regulation of NF-kappaB activation and M-CSF-induced monocyte survival .
+Here we demonstrates that M-CSF upregulated the NF-kappaB transcription and cell survival in human and mouse macrophages .
+This activity was reduced by the conventional , but not novel , PKC inhibitors , dominant negative PKCalpha constructs or PKCalpha siRNA .
+Conventional PKC regulated NF-kappaB-regulated gene expression and phosphorylation of Ser276 of NF-kappaB p65 occurred in an M-CSF-dependent fashion correlating with its maximal transcriptional activity .
+Furthermore , PKCalpha-regulated phosphorylation of Ser276 of NF-kappaB p65 plays an important role in regulating its activity in mononuclear phagocytes and murine embryonic fibroblasts .

@@ -1,0 +1,10 @@
+Isolation of CD4+ T Cells and of Splenic DC and Cell Culture for T Cell Phenotype Differentiation
+T cells were sorted for CD4+CD62Lhi, CD4+CD62LhiCD25-, or CD4+CD44loCD25- to >98% on a Moflo cytometer (Cytomation) as before (Shoemaker et al., 2006; Veldhoen et al., 2009).
+In most cases, experiments were reproduced with each type of purified CD4+ T cell population with similar results obtained.
+Splenic DCs were prepared as described (Hosken et al., 1995), and sort purified CD11c+ cells were added to the T cell culture.
+Purified DO11.10 CD4+ T cells (1 x 105 cells/ml) were cultured as before (Hosken et al., 1995), in a total volume of 1 ml cRPMI medium in a 48-well plate, with splenic DCs (2 x 104 cells/ml), and varying amounts of OVA and of IL-12.
+APC-independent differentiation of naive CD4+ T cells into Th1 and Th2 cells used stimulation with anti-CD3 and anti-CD28 and appropriate cytokine conditions, and control Th1 and Th2 cells were cultured as described before (Hosken et al., 1995; Shoemaker et al., 2006).
+Culture conditions for Th17 cells were as described before (Veldhoen et al., 2006).
+Importantly, Th1 and Th2 cells could be differentiated in cRPMI or IMDM (Hosken et al., 1995; Shoemaker et al., 2006; Veldhoen et al., 2006), but Th17 cells were only differentiated optimally in IMDM (Veldhoen et al., 2009).
+When indicated, U0126 or PD184352 (MEK inhibitors), SB203580 (p38 inhibitor), CT99021 (GSK3beta inhibitor), or a similar amount of DMSO were present in the culture.
+More details of specific culture conditions are provided in Figures S6 and S7.

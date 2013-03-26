@@ -1,0 +1,15 @@
+Degraded CGN activated the NF-kB pathway in monocytes.
+A: THP-1 cells were transfected with a NF-kappaB reporter plasmid driving expression of luciferase.
+Cells were then treated with various concentrations of 10 kDa (triangles), or 40 kDa dCGN (squares).
+B: THP-1 cells treated with 1 mg/ml of 10 kDa dCGN (C10), or with 1 mg/ml of 40 kDa dCGN (C40) were lysed after various periods of time.
+Proteins in cell extracts were resolved by SDS-PAGE and then Western blotted for IkappaBalpha or alpha-tubulin as loading control.
+C: Degraded carrageenans (dCGN) induced activation of NF-kappaB.
+THP-1 cells were treated with nothing (control), or with 1 mg/ml of 10 kDa dCGN (C10), or with 1 mg/ml of 40 kDa dCGN (C40) for 30 minutes at 37degreesC.
+Nuclei were isolated and lysed.
+Proteins in nuclear extracts were resolved by SDS-PAGE and then Western blotted for NF-kappaB p50 subunit (p50) or NF-kappaB p65 subunit (p65).
+Lower panels show Western blots of nuclear ERK revealing equivalent amount of protein in each sample.
+Data are representative of three separate experiments.
+D: Degraded carrageenan (dCGN) induced activation of NF-kappaB.
+Nuclei isolated from THP-1 cells were fluorescence-stained for NF-kappaB p50 subunit or NF-kappaB p65 subunit before (filled area) or after cells were treated with 1 mg/ml of 10 kDa dCGN (C10), or with 1 mg/ml of 40 kDa dCGN (C40) for 30 minutes at 37degreesC.
+Dashed line corresponds to nuclei stained only with secondary fluorescence antibody.
+Fluorescence intensity was analyzed by flow cytometry as described.

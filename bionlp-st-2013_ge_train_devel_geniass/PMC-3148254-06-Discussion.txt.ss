@@ -1,0 +1,30 @@
+Our results indicate that the protein HOIP is critical for CD40-induced signals that regulate B cell function.
+Our data show that HOIP-dependent cellular responses include CD40-mediated upregulation of CD80 expression and synthesis of germline RNA transcripts from the immunoglobulin heavy chain locus, two events that are important for T-cell-dependent antibody-mediated immune responses.
+At the molecular level, our data indicate that HOIP functions downstream of TRAF2 in the CD40 signaling pathway and that HOIP has a key role in promoting the recruitment of the IKK complex to CD40.
+Consistent with this, CD40-induced activation of NF-kappaB is dependent on the presence of HOIP.
+In addition, our data show that HOIP facilitates the activation of JNK in response to CD40 engagement.
+Together, our findings provide support for the conclusion that HOIP is a key component of the CD40 signaling pathway.
+Given the importance of CD40 signaling in both cellular and humoral immune responses, our results indicate that HOIP has a critical role in the regulation of the immune system.
+The functional properties of HOIP have only been partially characterized.
+Initial studies showed that HOIP and the related protein HOIL-1 are components of a large (~600 kDa) protein complex capable of synthesizing linear polyubiquitin chains [5].
+Subsequent studies showed that a HOIP-containing complex can interact with IKKgamma and facilitate activation of NF-kappaB via the canonical pathway [16].
+These data, considered together with ours, suggest that a HOIP-containing complex mediates recruitment of IKKgamma to the CD40 signaling complex.
+In addition, CD40-associated HOIP could play a role in activating IKKgamma after its recruitment to the signaling complex [16].
+The higher molecular weight forms of IKKgamma we observed in CD40 immunoprecipitates would be consistent with the presence of post-transcriptional modifications including phosphorylation and ubiquitination, which have been suggested to reduce or enhance IKKgamma activity, respectively [16], [17].
+The mechanisms by which HOIP mediates recruitment of the IKK complex to CD40 and by which HOIP is recruited to CD40 remain unclear.
+A previous study indicates that HOIP may mediate direct contacts with the IKK complex [16], suggesting that it functions as an adaptor for the recruitment of the IKK complex to CD40.
+However, the ubiquitin ligase activity of HOIP suggests that it is more than a simple adapter molecule.
+As IKKgamma appears capable of binding linear polyubiquitin [18], [19], it is possible that HOIP directs formation of linear polyubiquitin chains on a CD40-associated factor, and it is these chains that serve to recruit IKKgamma to the CD40 signaling complex.
+The molecular interactions necessary for recruitment of HOIP itself to the CD40 signaling complex also remain to be fully characterized.
+We previously showed that the recruitment of HOIP to the signaling complex is TRAF2-dependent [8].
+Potentially, TRAF2 and HOIP directly interact, but it is possible that the ubiquitin ligase activity of TRAF2 [20] (or TRAF2-associated proteins, such as the cIAPs [21]) generates K63-linked polyubiquitin chains to which HOIP can bind and thus associate with the CD40 signaling complex [22].
+While our previous work indicated a potentially important link between TRAF2 and HOIP in CD40 signaling, the signals and functions tested here are dependent upon TRAF6 as well as TRAF2.
+In previous experiments with TRAF-deficient A20.2J cells, we found that the activation of NF-kappaB by CD40 could be mediated by either TRAF2 or TRAF6, while activation of JNK by CD40 was largely dependent on TRAF6 alone [8].
+HOIP deficiency compromises the CD40-mediated activation of both NF-kappaB and JNK, indicating that signals mediated by both TRAF2 and TRAF6 likely pass through HOIP.
+Our previous work also demonstrated that the CD40-mediated activation of NF-kappaB and JNK, while TRAF6-dependent, was not compromised by the disruption of the binding site for TRAF6 in the cytoplasmic domain of CD40 or deletion of the receptor binding domain (the TRAF-C domain) in TRAF6 [8].
+These observations indicate that TRAF6 need not directly bind CD40 in order to mediate certain signals, suggesting the assembly of a signaling complex not directly associated with the receptor.
+If such a complex exists, our results indicate that the absence of HOIP compromises its function as well.
+Although the experiments presented here focus on CD40, our results and those of other groups [16], [22] support the possibility that HOIP is important in many signaling pathways in which TRAF2 or TRAF6 are involved, including those associated with various members of the TNF receptor superfamily and the Toll-like receptors.
+The potential importance of HOIP in immune function and TNFR family signaling is further supported by the recent discovery that HOIP interacts with a protein known as SHARPIN (SHANK-associated RH domain interacting protein in postsynaptic density), which appears capable of working together with HOIP and HOIL to mediate the assembly of linear polyubiquitin [14], [23], [24].
+Interestingly, mice with a spontaneous mutation in the gene encoding SHARPIN (chronic proliferative dermatitis (cpdm) mice) exhibit chronic inflammation of the skin and internal organs, defective development of secondary lymphoid tissue, and defects in the production of switched immunoglobulin isotypes [17], [25].
+The apparently intimate functional link between SHARPIN and HOIP strongly suggests that at least part of the cpdm phenotype stems from defects in the regulation or function of HOIP.

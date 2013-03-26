@@ -1,0 +1,28 @@
+Here we have demonstrated, to our knowledge for the first time, that corticosteroids may inhibit GATA-3 function and therefore the transcription of Th2 genes via two distinct but interacting molecular mechanisms.
+Firstly, corticosteroid-activated GR appears to compete with activated GATA-3 for nuclear import via importin-alpha, which is required for the nuclear transport of both GATA-3 and GR.
+Secondly, corticosteroids at higher concentrations increase the expression of MKP-1, a potent inhibitor of p38 MAPK activity and thereby prevent T cell receptor/co-receptor activation of p38 MAPK to prevent the phosphorylation of GATA-3 that is necessary for interaction with importin-alpha and subsequent nuclear import.
+We have previously shown that translocation of GATA-3 from the cytoplasm to the nucleus involves the nuclear transporter protein importin-alpha, which interacts with phosphorylated GATA-3 [12].
+We have also previously reported that GATA-3 knockdown using siRNA results in suppression of anti-CD3/CD28-stimulated IL-4/IL-5 mRNA induction, thus implicating an essential role for GATA-3 in the transcription of these genes [12].
+We now confirm, in human T cells, that GR also uses the same nuclear import mechanism as GATA-3 [22].
+We therefore propose that there is competition between ligand-activated GR and phospho-GATA-3 for nuclear import.
+Furthermore, we have shown that there is preferential binding of importin-alpha to activated GR over phospho-GATA-3, so that corticosteroids would preferentially reduce GATA-3 entry and thus rapidly switch off Th2 gene transcription without any need for any intermediate steps.
+Furthermore, there was some degree of specificity for GATA-3, as nuclear translocation of the p65 subunit of NF-kappaB was not affected by corticosteroid exposure.
+We tested some alternative explanations for this effect of FP on GATA-3 nuclear exclusion and failed to show that FP either enhances GATA-3 nuclear export directly or induces GATA-3 degradation.
+The evidence from the in vitro competition assays does, however, suggest that purified activated GR can clearly attenuate purified phospho-GATA-3-importin-alpha association and that the converse does not occur.
+Furthermore, we have shown that only phospho-GATA-3 can associate with importin-alpha.
+This mechanism is sensitive to very low concentrations of corticosteroid and would be rapid in onset as no changes in protein synthesis are required.
+This acute mechanism may also contribute to the reduction in GATA-3 nuclear import and may play a major role at low corticosteroid concentrations and/or at early time points prior to MKP-1 induction.
+Corticosteroids can modulate p38 MAPK activity through the induction of MKP-1, a potent endogenous inhibitor of MAPK function [38],[39].
+We report here a rapid induction of MKP-1 mRNA following stimulation of cells with relatively high concentrations of FP.
+We hypothesize that this rapid induction of MKP-1 can reduce GATA-3 nuclear import by attenuating p38 MAPK activity and subsequent GATA-3 phosphorylation, thus preventing nuclear translocation.
+The location of the serine residue(s) of GATA-3 that are phosphorylated by p38 MAPK are currently unknown, but a bioinformatics search (Motif Scanner, http://scansite.mit.edu/motifscan_seq.phtml) indicates at least three potential p38 MAPK-sensitive serine residues.
+As predicted from these in vitro data, impairment of GATA-3 nuclear import by FP may, at least in part, underlie the efficacy of corticosteroids in suppressing allergic inflammation.
+Although we did not assess the acute inhibitory effect of FP on the expression of IL-4 mRNA in vivo, a single inhalation of FP (500 microg) may have comparable effects, as it provides plasma levels within a relevant range of concentrations used to suppress IL-4 transcription in our in vitro system [37].
+A lower dose of inhaled FP (100 microg) was not effective, but plasma concentrations may be below those required for GATA-3 inhibition.
+However, it is likely that the higher concentrations of FP in the airways after inhaled administration would be effective in inhibiting GATA-3 in airway T cells of asthma patients.
+The study of PBMCs from asthma patients treated with inhaled corticosteroid therapy clearly demonstrates that these molecular mechanisms are likely to also occur in patients at therapeutic doses of inhaled corticosteroids.
+In addition, previous studies have shown that corticosteroids can suppress IL-4 and IL-5 release from peripheral blood cells of asthma patients in vitro and in vivo [40]-[42].
+In summary, our data provide evidence for a novel action of corticosteroids: suppression of allergic inflammation through a rapid inhibitory effect on GATA-3 nuclear translocation by preferential binding to the shared nuclear import protein importin-alpha and by a second mechanism involving increased synthesis of MKP-1, which inhibits p38 MAPK, thus preventing the phosphorylation of GATA-3 that is necessary for nuclear translocation of GATA-3.
+These two mechanisms are likely to be synergistic, accounting for the rapid and potent effect of corticosteroids on allergic inflammation.
+This is exemplified by the rapid inhibitory effect of topical corticosteroids on nasal Th2 cytokine release after allergen provocation in individuals with seasonal allergic rhinitis (hay fever) [43].
+Prevention of phospho-GATA-3 interaction with importin-alpha may provide a new approach for the development of novel therapies for the treatment of allergic diseases.

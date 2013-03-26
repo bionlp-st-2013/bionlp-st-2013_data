@@ -1,0 +1,15 @@
+Preparation of Degraded Carrageenan
+Two preparations of degraded carrageenan with low, (~10 kDa; C10), and medium, (~40 kDa; C40) molecular weight were prepared from native iota-carrageenan extracted from Euchema spinosum (generously provided by Sanofi Biosystems Industry, Boulogne-Billancourt, France).
+Native carrageenan was dissolved in distilled water (5% w/v) under vigorous stirring and heated to 60degreesC.
+Then, the carrageenan solution was submitted to two different treatments to obtain both low and medium molecular weight fractions.
+Briefly, for the low molecular weight fraction, carrageenan solution was hydrolyzed with 0.3% (v/v) concentrated sulphuric acid for 15 min at 80degreesC.
+After neutralization with NaOH 4N, the solution was ultra filtered through a hollow fibre cartridge with MW cut-off 5 kDa, (Amicon Inc, Beverly, USA).
+For the medium molecular weight fraction, the carrageenan solution was hydrolyzed with 0.3% (v/v) concentrated sulphuric acid for 30 min at 60degreesC.
+After neutralization, the supernatant was ultra filtered (MW cut-off 100 kDa).
+The filtrate was submitted to a second ultra filtration (MW cut-off 5 kDa).
+Both preparations of dCGN were precipitated with 4 volumes of 95% ethanol, dried at room temperature and ground to small particles (1 mm in diameter).
+Using gel-permeation chromatography in combination with light scattering measurements (see Viebke et al. [21]), it was confirmed that the low fraction had an average molecular weight of 10 kDa, and the medium fraction of 40 kDa.
+The sulphate content of polysaccharides in both fractions was measured following the method of Quemener et al. [22].
+Finally, the absence of polysaccharide structure modifications in the two fractions was confirmed using 2H-NMR spectroscopy.
+The absence of LPS contamination in the two fractions was confirmed using the e-Toxate(R) kit (Sigma, St Quentin Fallavier, France).
+Before use in cell culture, the two fractions were dissolved in complete medium during 30 min at 56degreesC.

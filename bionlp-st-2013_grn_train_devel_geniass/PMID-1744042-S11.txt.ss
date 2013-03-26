@@ -1,0 +1,2 @@
+This timing of expression and medium dependence were very similar to those for ctc, the only other recognized gene dependent on sigma B.
+

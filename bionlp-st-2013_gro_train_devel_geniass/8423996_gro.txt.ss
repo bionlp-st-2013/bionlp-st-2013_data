@@ -1,0 +1,5 @@
+Chromosomal localization of genes encoding the transcription factors, c-rel, NF-kappa Bp50, NF-kappa Bp65, and lyt-10 by fluorescence in situ hybridization.
+We have used fluorescence in situ hybridization (FISH) to perform precise chromosomal mapping of the genes encoding the transcription factors c-rel, NF-kappa Bp50, NF-kappa Bp65, and lyt-10.
+The previously published assignments of c-rel and NF-kappa Bp50 have been refined to specific bands.
+The map position of lyt-10, inferred from its isolation from a t(10;14)(q24;q32) translocation, has been confirmed.
+NF-kappa Bp65 has now been mapped to 11q13, a site of frequent involvement in aberration in multiple tumor types.

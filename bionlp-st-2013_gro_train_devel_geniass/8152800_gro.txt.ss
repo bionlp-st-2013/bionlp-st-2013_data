@@ -1,0 +1,13 @@
+Molecular cloning and characterization of human ERM, a new member of the Ets family closely related to mouse PEA3 and ER81 transcription factors.
+The ets-related transcription factors PEA3 and ER81 have recently been isolated and characterized in the mouse.
+They share 95% identity in a 85 amino acid (AA) domain termed the ETS domain which is responsible for DNA binding, and therefore they form an Ets family group.
+By screening a human testis cDNA library with a probe containing the mouse PEA3 ETS domain, we isolated a 2.2 kb clone containing a 510 AA open reading frame.
+Since the ETS domain, which is localized in the carboxy terminal region of the encoded protein, is 95% and 96% identical to that of PEA3 and ER81, respectively, we named this new member 'Ets Related Molecule PEA3-like' (ERM).
+Although the first 120 AA in the amino-terminal region of ERM share 47% identity with PEA3 and 66% with ER81, ERM contains a central region of approximately 35 AA not found in the two mouse proteins.
+Gel shift analysis indicates that the full-length ERM protein is able to bind specifically to an oligonucleotide containing the consensus nucleotide core sequence GGAA recognized by the Ets proteins.
+Moreover, in vitro translation of 83 AA of the ERM ETS domain led to the production of a truncated protein which also binds to DNA.
+Though differential expression is observed in primary tumors and normal lymphocytes do not express ERM, this gene is almost ubiquitously expressed in human normal tissues.
+ERM mRNA is highly expressed in brain as well as in placenta and, to a lesser degree, in lung, pancreas, and heart.
+Moreover, almost all human cell lines tested express it at varying levels.
+In mouse tissues, we showed that PEA3 and ER81 mRNAs display restricted expression, whereas ERM is almost ubiquitously expressed as observed for human tissues.
+Altogether these results indicate that ERM is clearly a new ets family member and not the human equivalent of PEA3 or ER81.

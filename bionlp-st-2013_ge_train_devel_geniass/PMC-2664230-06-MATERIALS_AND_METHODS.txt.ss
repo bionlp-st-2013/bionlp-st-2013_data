@@ -1,0 +1,10 @@
+NF-kappaB and CREB Electrophoretic Mobility Shift Assay (EMSA)
+The non-radioactive LightShift Chemiluminescent EMSA Kit was used to detect DNA-protein interactions.
+The NF-kappaB 3' biotin end-labeled DNA oligonucleotide used as a probe for the EMSA was a 42-bp double stranded construct (5'-TTGTTACAA-GGGGACTTTCCGCTGGGGACTTTCCAGGGAGGC - 3') containing two tandemly repeated NF-kappaB binding sites (underlined).
+Specificity was determined by a competition assay with the addition of 200 molar excess of unlabeled double stranded NF-kappaB oligonucleotide.
+The CREB 3' biotin end-labeled DNA oligonucleotide used as a probe for the EMSA was a 23-bp double stranded construct (5'-TTT TCG AGC TCTGACGTCAGA-GC - 3') containing the CRE consensus sequence (underlined).
+Specificity was determined by a competition assay with the addition of 200 molar excess of unlabeled double stranded CREB oligonucleotide.
+Nuclear extracts (10 mug) were incubated with 5 nM NF-kappaB or CREB probe (NF-kB: 1x binding buffer, 50 mM KCl, 1 mM EDTA, 1 mM DTT, 0.1% NP40, 10% glycerol, and 50 ng/mul poly dI-dC, CREB: 1x binding buffer, 20 mM Tris, pH 7.5, 50 mM KCl, 1 mM EDTA, 1 mM DTT, 0.10% NP40, 6% glycerol, 0.1 mg/mL BSA and 50 ng/mul poly dI-dC) and were then electrophoresed through a 6% DNA retardation gel at 100V for 90 minutes.
+The gels were electrophoretically transferred at 380mA for 1 hour on ice to a positively charged nylon membrane and immediately cross-linked for 15 minutes with a UV transilluminator equipped with a 312 nm bulb.
+Streptavidin-horseradish peroxidase conjugate and the LightShift Chemiluminescent Substrate were used to detect the biotin end-labeled DNA.
+The nylon membranes were exposed to x-ray film for 1-3 minutes for detection.

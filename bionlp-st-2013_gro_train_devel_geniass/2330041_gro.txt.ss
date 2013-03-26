@@ -1,0 +1,4 @@
+Nucleolar transcription factor hUBF contains a DNA-binding motif with homology to HMG proteins.
+The eukaryotic upstream binding factor (UBF), recognizes the ribosomal RNA gene promoter and activates transcription mediated by RNA polymerase I through cooperative interactions with the species-specific factor, SL1.
+Isolation of complementary DNA clones and sequence analysis reveals similarities between DNA binding domains of human UBF (hUBF) and high mobility group (HMG) protein 1.
+Expression, cellular localization and in vitro transcription studies establish that cloned hUBF encodes a nucleolar factor that binds specifically to the upstream control element and core of the rRNA gene promoter to activate transcription in a binding site-dependent manner.

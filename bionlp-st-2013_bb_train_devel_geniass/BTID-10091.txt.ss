@@ -1,0 +1,11 @@
+Borrelia garinii PBi
+Description
+Borrelia garinii.
+This organism was orginally classified as Borrelia burgdorferi, however B. garinii was subsequently determined to be a separate species based on genetic analysis.
+The type strain of B. garinii was isolated from Ixodes ricinus in France.
+B. garinii is a major causative agent of tick-borne borreliosis in Europe.
+Neurologic symptoms, such as arthritis, meningitis, and extreme leg and back pain are characteristic of infection by B. garinii.
+Description
+Borrelia garinii s train PBi.
+This strain (OspA serotype 4) was isolated in Germany from the cerebrospinal fluid of a patient with neuroborreliosis.
+

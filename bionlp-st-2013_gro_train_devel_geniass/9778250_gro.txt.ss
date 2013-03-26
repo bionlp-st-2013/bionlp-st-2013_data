@@ -1,0 +1,6 @@
+A SWI/SNF-related chromatin remodeling complex, E-RC1, is required for tissue-specific transcriptional regulation by EKLF in vitro.
+Erythroid Krueppel-like factor (EKLF) is necessary for stage-specific expression of the human beta-globin gene.
+We show that EKLF requires a SWI/SNF-related chromatin remodeling complex, EKLF coactivator-remodeling complex 1 (E-RC1), to generate a DNase I hypersensitive, transcriptionally active beta-globin promoter on chromatin templates in vitro.
+E-RC1 contains BRG1, BAF170, BAF155, and INI1 (BAF47) homologs of yeast SWI/SNF subunits, as well as a subunit unique to higher eukaryotes, BAF57, which is critical for chromatin remodeling and transcription with EKLF.
+E-RC1 displays functional selectivity toward transcription factors, since it cannot activate expression of chromatin-assembled HIV-1 templates with the E box-binding protein TFE-3.
+Thus, a member of the SWI/SNF family acts directly in transcriptional activation and may regulate subsets of genes by selectively interacting with specific DNA-binding proteins.

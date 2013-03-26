@@ -1,0 +1,9 @@
+Phenotype of BMDC and splenic DC subsets
+The phenotype of BMDC was determined before and after 24 hour culture in the presence of 100 ng/mL LPS .
+The cells were incubated in PBS with 0.1 % NaN3 , 1 % BSA and 10 % normal rabbit serum for 20 minutes on ice , washed and incubated for 30 minutes on ice with Alex Fluor-labeled anti-CD11c ( MCD11C20 , CALTAG ) in combination with PE- anti-CD40 ( 3/23 , BD Biosciences ) , PE-anti-CD80 ( 16-10A1 , eBioscience ) , PE-anti-CD86 ( P03.1 , eBioscience ) , PE-anti-CD14 ( Sa2.8 , eBioscience ) and biotinylated anti-TLR4 ( BioLegend ) .
+The cells incubated with biotinylated anti-TLR4/MD-2 were washed twice and incubated for 30 minutes on ice with avidin-PE .
+To isolate splenic DC , spleens were collagenase digested and subject to Percoll gradient centrifugation .
+The bands at the 35-55 % interface were collected to stain with PE-anti-CD11c ( HL3 , BioLegend ) , APC-anti-PDCA-1 ( 927 , BioLegend ) and FITC-anti-CD8alpha ( 53-6.7 , BD BioScience ) .
+The cells were washed twice , fixed in 2 % paraformaldehyde , and stored at 4degreesC until analysis .
+Flow cytometry was performed in an Excel ( Coulter ) instrument .
+Dead cells were omitted from the analysis by gating on forward and 90degrees light scatter , and 10,000 cells were analyzed by FlowJo software .

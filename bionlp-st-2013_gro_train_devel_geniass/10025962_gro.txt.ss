@@ -1,0 +1,6 @@
+Molecular cloning and characterization of a novel angiopoietin family protein, angiopoietin-3.
+Using homology-based PCR, we have isolated cDNA encoding a novel member (491 amino acids) of the angiopoietin (Ang) family from human adult heart cDNA and have designated it angiopoietin-3 (Ang3).
+The NH2-terminal and COOH-terminal portions of Ang-3 contain the characteristic coiled-coil domain and fibrinogen-like domain that are conserved in other known Angs.
+Ang3 has a highly hydrophobic region at the N-terminus (approximately 21 amino acids) that is typical of a signal sequence for protein secretion.
+Ang3 mRNA is most abundant in adrenal gland, placenta, thyroid gland, heart and small intestine in human adult tissues.
+Additionally, Ang3 is a secretory protein, but is not a mitogen in endothelial cells.

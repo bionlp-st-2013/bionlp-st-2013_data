@@ -1,0 +1,2 @@
+spoVD transcription appears to occur from a promoter recognized by the sigma E form of RNA polymerase.
+

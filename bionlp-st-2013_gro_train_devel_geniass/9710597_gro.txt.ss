@@ -1,0 +1,10 @@
+Identification of a novel RING finger protein as a coregulator in steroid receptor-mediated gene transcription.
+Using the DNA-binding domain of androgen receptor (AR) as a bait in a yeast two-hybrid screening, we have identified a small nuclear RING finger protein, termed SNURF, that interacts with AR in a hormone-dependent fashion in both yeast and mammalian cells.
+Physical interaction between AR and SNURF was demonstrated by coimmunoprecipitation from cell extracts and by protein-protein affinity chromatography.
+Rat SNURF is a highly hydrophilic protein consisting of 194 amino acid residues and comprising a consensus C3HC4 zinc finger (RING) structure in the C-terminal region and a bipartite nuclear localization signal near the N terminus.
+Immunohistochemical experiments indicated that SNURF is a nuclear protein.
+SNURF mRNA is expressed in a variety of human and rat tissues.
+Overexpression of SNURF in cultured mammalian cells enhanced not only androgen, glucocorticoid, and progesterone receptor-dependent transactivation but also basal transcription from steroid-regulated promoters.
+Mutation of two of the potential Zn2+ coordinating cysteines to serines in the RING finger completely abolished the ability of SNURF to enhance basal transcription, whereas its ability to activate steroid receptor-dependent transcription was maintained, suggesting that there are separate domains in SNURF that mediate interactions with different regulatory factors.
+SNURF is capable of interacting in vitro with the TATA-binding protein, and the RING finger domain is needed for this interaction.
+Collectively, we have identified and characterized a ubiquitously expressed RING finger protein, SNURF, that may function as a bridging factor and regulate steroid receptor-dependent transcription by a mechanism different from those of previously identified coactivator or integrator proteins.

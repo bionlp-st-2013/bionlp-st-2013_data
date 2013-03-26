@@ -1,0 +1,45 @@
+NF-kappaB transcriptional activity is important in regulating intracellular signaling, stress response, proliferation, survival, differentiation and inflammation [8].
+To regulate gene transcription, NF-kappaB p50/p65 heterodimers translocate to the nucleus from the cytoplasm, however, their translocation is not sufficient to activate gene transcription.
+Post-translational modification of NF-kappaB heterodimers such as phosphorylation or acetylation also contributes to its transcriptional activity [41], [42], [43].
+Because NF-kappaB constitutively translocates to the nucleus in monocytic lineage [13] and activates gene transcription and survival in murine macrophages [11], we sought to determine how M-CSF affected NF-kappaB transcriptional activity in human MDMs and whether this activation regulated their survival.
+The present study demonstrated that M-CSF stimulated PKCalpha kinase upstream of NF-kappaB transcriptional activity in primary human MDMs and RAW 264.7 cells.
+We showed inhibition of conventional PKCs by PKC inhibitors, kinase deficient PKCalpha or PKCalpha siRNA blocked M-CSF-induced cell survival and NF-kappaB-regulated gene expression.
+This block correlated with a reduction in M-CSF-induced phosphorylation of NF-kappaB p65 at Ser276.
+Consistent with these findings the dominant negative PKCalpha constructs also inhibited NF-kappaB p65 phosphorylation at Ser276 but not at Ser536 resulting in reduced NF-kappaB transcriptional activation and M-CSF-induced MDM survival.
+A simplified proposed cartoon model in Figure 9 demonstrates that M-CSF induced monocytes survival is regulated by activating NF-kappaB p65 phosphorylation at Ser276 via PKC.
+Finally, in a NF-kappaB p65-/- fibroblast cell line, we confirmed that the Ser276 residue of NF-kappaB p65 is important and essential for PKC modulation of NF-kappaB activity.
+More compelling is that we observed a similar regulation between two different cell lineages in our study.
+Post-translational modification of NF-kappaB p65 regulates its activating or repressing effects on gene expression.
+Among the seven reported putative NF-kappaB p65 phosphorylation sites, five increase nuclear translocation, DNA binding and NF-kappaB transcriptional activity [17].
+Similar to our finding, Zhong et al. found that in response to LPS, NF-kappaB p65 is phosphorylated at the highly conserved Ser276 residue by the catalytic subunit of PKA [16].
+In addition to PKA, Ser276 can be phosphorylated by MSK1 in the nucleus upon TNFalpha treatment [18].
+Phosphorylation of NF-kappaB p65 at Ser536 occurs in response to many inflammatory stimuli as well as kinases, IKKalpha, IKKbeta and RSK1 [17], [18], [19], [20], [21].
+Notably, in addition to phosphorylating Ser276 of NF-kappaB, our study revealed that M-CSF also modulated the phosphorylation of the NF-kappaB p65 subunit at Ser536, however, PKC inhibitors or kinase deficient PKCalpha constructs did not affect this phosphorylation event.
+Moreover, mutant constructs containing a point mutation at Ser536 of NF-kappaB p65 did not reduce NF-kappaB activity in cells lacking endogenous NF-kappaB p65, while the NF-kappaB p65 276S/A construct did reduce NF-kappaB activity in these cells.
+Therefore, specific post-translational modification of NF-kappaB p65 is likely to regulate transcriptional activation in response to specific stimuli [15], [43].
+It is notable that M-CSF activated NF-kappaB p65 Ser276 phosphorylation and transcriptional activation in a PKCalpha-dependent manner.
+PKCalpha is a member of the conventional PKC family of protein kinases that are critical for cell growth, differentiation and cell death.
+PKCalpha primarily modulates anti-apoptotic and proliferation signals following cytokine treatment in various cell types [42].
+Expression of PKCalpha attenuates apoptosis in many different cell types, while PKCalpha inhibition generally potentiates apoptosis [42].
+In our studies using conventional PKC inhibitors and dominant negative PKCalpha constructs, PKCalpha was critical in M-CSF-induced macrophage survival by inducing Ser276 phosphorylation of NF-kappaB p65 in both primary human MDMs and Raw 264.7 cells.
+We also demonstrated PKC inhibition downregulated NF-kappaB-induction of the anti-apoptotic gene BCL-xL.
+Consistent with our finding, others reported NF-kappaB regulated the gene expression of many anti-apoptotic proteins including other BCL-2 family members and inhibitor of apoptosis (IAP) proteins which are regulators of apoptosis and function upstream of caspases [44].
+It has been shown that phosphorylation of p65 at Ser276 prevents its degradation by ubiquitin-mediated proteolysis and promotes cell survival in HeLa cells [24].
+In addition to BCL-xL expression as examined in this study, we are evaluating the possibility that PKCalpha-regulated NF-kappaB activity upregulates additional anti-apoptotic genes in an M-CSF-dependent fashion to modulate cell survival.
+The use of inhibitors and siRNA in our study has not ruled out that other conventional PKCs might also be important in M-CSF-induced NF-kappaB activation and macrophage survival.
+In contrast to the actions of PKCalpha activation of other conventional PKC isoforms, like PKCbetaI/betaII, appear necessary for macrophage apoptosis.
+The PKCbetaI/betaII isoforms are expressed in apoptotic U937 myelomonocytic cells [45].
+The human myeloid cell line HL-525 which is devoid of endogenous PKCbetaII is resistant to TNFalpha-induced apoptosis [46].
+Re-expression of PKCbetaII in HL-525 cells restores their susceptibility to TNFalpha-induced apoptosis implying that PKCbetaII is pro-apoptotic and may be required to induce macrophage apoptosis.
+Recent studies demonstrated that NF-kappaB transcriptional activity can be regulated by phosphorylation of the NF-kappaB p65 subunit in the absence of IkappaBalpha degradation [47].
+By this pathway, phosphorylation of NF-kappaB regulates its interaction with other components of the basal transcriptional machinery without affecting its capability to bind DNA [21].
+Since NF-kappaB can bind the promoters of numerous gene targets, post-translational modification of NF-kappaB p65 may affect its interaction with other proteins, refining the expression of gene targets.
+We did not find that PKC was involved in IkappaBalpha degradation or NF-kappaB p65 nuclear translocation induced by M-CSF, but that M-CSF-induced phosphorylation of NF-kappaB p65 at Ser276 was dramatically reduced by the conventional PKC inhibitor and kinase deficient PKCalpha and by siRNA towards PKCalpha.
+Current studies are underway to delineate the protein complexes formed by activated NF-kappaB and other transcriptional co-activators in response to M-CSF and PKC activation.
+Recently studies indicated that the non-canonical pathway was activated during human monocyte-macrophage differentiation [48].
+During this process, expression of IKKalpha among other proteins, is elevated leading to increased p52 NF-kappaB (relB) expression through partial proteolytic degradation of the p100 NF-kappaB protein.
+Thus, it is possible that M-CSF regulates monocyte survival through both the canonical and non-canonical NF-kappaB pathways, which will be a focus in future research.
+We previously showed that M-CSF reduced caspase-3 and -9 activity and prevented monocyte apoptosis [3].
+This study reveals that treatment of monocytes with conventional PKC inhibitors, or overexpression of kinase-deficient PKCalpha blocked M-CSF-induced cell survival.
+Our data revealed that conventional PKCs are upstream of NF-kappaB activation in response to M-CSF and mediate post-translational activation of NF-kappaB p65 by phosphorylating Ser276 to regulate gene transcription and cell survival.
+Thus, our observation may provide insight in potential therapeutic targets for inflammatory diseases.

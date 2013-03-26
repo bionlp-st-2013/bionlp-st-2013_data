@@ -1,0 +1,9 @@
+Genomic structure, chromosomal mapping, and expression pattern of human DCAMKL1 (KIAA0369), a homologue of DCX (XLIS).
+Human DCAMKL1, also known as KIAA0369, is a homologue of DCX (Xq22. 3), a gene associated with X-linked lissencephaly and subcortical band heterotopia.
+This suggests that DCAMKL1 may play a role in neuronal migration.
+The gene also shows similarity to Ca2+/calmodulin-dependent protein kinases.
+We have determined its genomic structure, regional mapping, and expression pattern in human tissues.
+DCAMKL1 consists of at least 18 exons ranging from 58 to 3359 bp in length.
+We have characterized the exon/intron borders, and primers were designed to amplify each individual exon for mutation analysis.
+DCAMKL1 was mapped to chromosome 13q13 by fluorescence in situ hybridization.
+Northern blot analysis showed DCAMKL1 to be predominantly expressed in human fetal brain as a major transcript of about 5.8 kb.

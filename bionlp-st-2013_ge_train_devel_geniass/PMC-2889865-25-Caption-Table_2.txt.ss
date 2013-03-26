@@ -1,0 +1,1 @@
+Jurkat T-cells were treated with 10 nM NAI, 10 muM JNK-I or10 nM PKC-I for 2 h followed by induction with 162 nM PMA for 24 h.
