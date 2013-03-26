@@ -1,0 +1,2 @@
+Stable Infection of Myr-Akt1
+To generate MSCV retroviruses, HEK293FT cells (Invitrogen) were transfected with 2 microg of viral DNA and 1 microg of gal/pol and VSV-G accessory plasmids in 6 well plates using GenJet transfection reagent (Signagen Labs). Virus-containing media was collected 72 hr later, filtered through 0.45 microm filter and applied to L929 cells with 8 microg/ml polybrene. Cells were selected and maintained in 10 microg/ml puromycin.

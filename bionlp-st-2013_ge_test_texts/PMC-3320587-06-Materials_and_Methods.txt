@@ -1,0 +1,2 @@
+Quantitative DNase I footprinting
+Recombinant NFAT5 (amino acids 175-471) with an N-terminal 6x His tag was expressed in E. coli BL21(DE3) cells (Stratagene; www.stratagene.com) and purified under native conditions using Ni-NTA agarose (Qiagen). Recombinant p50 and p65 were purchased (Active Motif, www.activemotif.com). Quantitative DNase I footprinting was performed as previously described [31].

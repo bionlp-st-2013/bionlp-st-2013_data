@@ -1,0 +1,2 @@
+Quantitative PCR
+The mRNA expression levels were determined by SYBR Green-based real-time PCR (Applied Biosystems, www.appliedbiosystems.com). The reaction conditions were 95degreesC for 10 min followed by 40 cycles of 95degreesC for 15 sec and 60degreesC for 1 min. The results were normalized using beta-actin mRNA as an internal control and expressed as relative values.

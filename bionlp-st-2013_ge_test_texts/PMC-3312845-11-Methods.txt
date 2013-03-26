@@ -1,0 +1,2 @@
+Data analysis
+Data obtained from volumetric analysis, cell counts, and quantitative measurements were analyzed using Student's t-test to determine statistical significance. Linear regression analysis was also performed to determine correlations with SMI-71/p65-Thr435 phosphorylation, and the number of MPO cells/vasogenic edema areas.

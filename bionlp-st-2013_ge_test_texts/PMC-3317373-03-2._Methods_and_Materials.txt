@@ -1,0 +1,2 @@
+2.2. In Vitro Model of TBI Established by Scratch Injury
+Astrocyte scratch injury was performed as in a previous report [7]. Astrocytes were planted in 6-well plates and grown to confluence. The cell monolayer was scratched with a sterile 26G syringe needle, resulting in the formation of a 0.5 mm wide gap. Immediately after scratch, cells were washed twice with sterile PBS, cultured with complete culture medium, and named as TBI group. Cells, which did not received scratch, were used as blank control and named as sham group.

@@ -1,0 +1,2 @@
+Protein Immuno-arrays
+The tumor and spleen tissues were excised and homogenized in PBS with protease inhibitor cocktail (Sigma-Aldrich, USA) and Triton X-100 (final concentration 1%). The samples were frozen at -70degreesC, thawed, and centrifuged at 10,000xg for 5 min to remove cellular debris. The tissue lysates were performed protein assay in the same way as for western blotting. 4.5 mg of proteins, collected from three samples per group, were used for Mouse cytokine array as the protocol provided by supplier (Proteome Profiler(TM), #ARY006, R&D Systems, USA).

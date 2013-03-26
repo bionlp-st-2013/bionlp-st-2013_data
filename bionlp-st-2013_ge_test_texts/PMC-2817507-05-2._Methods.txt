@@ -1,0 +1,2 @@
+2.4. Immunohistochemistry (IHC)
+The IHC staining for TLR4 was performed as described previously [8]. The primary antibody employed was rabbit anti-TLR4 (WuHan, BA1717). The biotinylated secondary antibody and antibody-biotin-avidin-peroxidase complexes (ABC reagent, SC-2018) were obtained from Santa Cruz Biotechnology Inc. (Santa Cruz, CA). Slides processed without primary antibodies served as negative controls.

@@ -1,0 +1,2 @@
+qRT-PCR
+Cells were treated as described for Western blots. Total RNA was isolated using ZR Miniprep kit (Zymo Research). 1 microg of RNA was converted to cDNA using random primers (M-MuLV cDNA kit, New England Biolabs). 1 microL of cDNA was used with 500 pM primers in qPCR reactions. Reactions were performs using SYBRGreen 2xMaster mix (SABiosciences) in a LightCycler480 (Roche).

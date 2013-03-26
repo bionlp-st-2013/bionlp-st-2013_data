@@ -1,0 +1,2 @@
+siRNA Knockdown
+siRNAs were purchased from Dharmacon. Mouse ribosomal S6 protein (L-040893-00 and L-045791-00), mouse Akt1 (L-040709-00), mouse Akt2 (L-040782-00), mouse Akt3 (L-040891-00), mouse mTOR (L-065427-00), mouse PDK1 (L-040658-00), non-coding control (D-001810-10-05), mouse Mapk8 (J-040128-05), mouse Mapk9 (J-040134-05), mouse Jun (L-043776-00). siRNA were transfected using RNAiMAX reagent (Invitrogen), according to manufacturer's recommendations. After 72 hr, cells were treated with zVAD.fmk or TNFalpha for 9 hr (RNA or Western blot) or 24 hr (cell viability).

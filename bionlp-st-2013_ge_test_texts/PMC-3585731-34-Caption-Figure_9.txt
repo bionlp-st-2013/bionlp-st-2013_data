@@ -1,0 +1,2 @@
+Model of RIP1, Akt and JNK dependent signaling in necroptotic L929 cells.
+Akt phosphorylation at Thr308 during necroptosis requires inputs from both growth factors and RIP1 kinase. Downstream from Akt, JNK activation leads to TNFalpha synthesis. Activation of Akt during necroptosis also leads the phosphorylation of several known Akt substrates, such as mTOR, which contribute to the execution of necroptotic death in L929 cells.

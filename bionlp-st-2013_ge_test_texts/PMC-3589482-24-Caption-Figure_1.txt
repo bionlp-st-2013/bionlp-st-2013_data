@@ -1,0 +1,2 @@
+LPS induction of SerpinB2 mRNA and protein expression in murine macrophage cells.
+RAW264.7 macrophages were treated for the indicated times with 100 ng/ml LPS. (A) qPCR analysis of murine SerpinB2 mRNA levels, relative to beta-actin. The plot is representative of at least two independent experiments performed in triplicate. (B) Immunoblot analysis of SerpinB2 protein expression in whole cell lysates. Blot was reprobed for GAPDH as a loading control.

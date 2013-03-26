@@ -1,0 +1,2 @@
+In vitro Akt Kinase Assay
+Akt kinase activity was measured using the Akt kinase assay kit (nonradioactive) from Cell Signaling Technology. In brief, Myr-Akt was immunoprecipitated from L929 cells using anti-FLAG M2 magnetic beads (Sigma). The in vitro assay was performed in the presence of a GSK fusion protein substrate. Phosphorylation of the GSK fusion protein was visualized by western blot.

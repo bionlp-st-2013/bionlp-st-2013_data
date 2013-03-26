@@ -1,0 +1,2 @@
+DNA
+Cloning of Myr-Akt1, containing c-terminal FLAG tag, has been described [52]. Myr-Akt1-FLAG was amplified by PCR and subcloned into the BglII and EcoRI sites of pMSCV-puro retroviral vector (Invitrogen). Mutant versions of Myr-Akt1 were generated using the same strategy.

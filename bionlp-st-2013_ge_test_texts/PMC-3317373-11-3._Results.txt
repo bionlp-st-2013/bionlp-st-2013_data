@@ -1,0 +1,2 @@
+3.1. Depletion of Nrf2 Aggravated the Cell Death in Astrocytes after Scratch Injury
+Cell death was detected by microscope and CCK-8 analysis at 24 h after scratch. The detachment from culture plate, cell lost, and cytoplasmic process distortion were mostly observed in both sides of scratch line in group KO TBI. CCK-8 assay also showed lower OD value of group KO TBI (0.38 +/- 0.064) than that of group WT TBI (0.98 +/- 0.098) (P < 0.01), which also suggested more cell death in group KO TBI (Figure 1). There was no difference between two sham-operated groups.

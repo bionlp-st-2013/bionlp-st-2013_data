@@ -1,0 +1,2 @@
+Ethics statement
+All experiments on mice were conducted according to the national (Belgian Law 14/08/1986 and 22/12/2003, Belgian Royal Decree 06/04/2010) and European (EU Directives 2010/63/EU, 86/609/EEG) animal regulations. Animal protocols were approved by the ethics committee of Ghent University (permit number LA1400091, approval ID 2010/001). All efforts were made to ameliorate suffering of animals. Mice were anesthetized by intraperitoneal (i.p.) injection of a mixture of ketamine (12 mg/kg) and xylazine (60 mg/kg).

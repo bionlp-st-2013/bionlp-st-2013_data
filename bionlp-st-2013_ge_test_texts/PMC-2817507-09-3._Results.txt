@@ -1,0 +1,2 @@
+3.1. TLR4 mRNA Increased in Brain Tissue after ICH
+TLR4 mRNA levels were detected by Rt-PCR. The low level of TLR4 mRNA was observed in normal rat brain tissue. In the saline control group, the TLR4 mRNA slightly increased, but was not significantly different from normal group. However, the TLR4 mRNA after ICH significantly increased starting from 6 hours after ICH (P < .05), peaked on the 3rd day after ICH, and then decreased on the 7th day after ICH (P < .05), but still maintained a higher level compared with saline control (P < .05, Figure 1).

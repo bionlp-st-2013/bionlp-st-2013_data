@@ -1,0 +1,2 @@
+Real-time Quantitative PCR (qPCR)
+The RNeasy Mini Kit (Qiagen) was used to isolate total RNA from cells. For cDNA synthesis, 1 microg of total RNA was reverse transcribed using TaqMan(R) Reverse Transcription Reagents (Applied Biosystems). qPCR was performed using TaqMan(R) Gene Expression 20X primers for Serpinb2/SerpinB2 (Mm00440905_m1), Cebpb (Mm00843434_s1) and beta-actin (Mm00607939_s1) (Applied Biosystems).

@@ -1,0 +1,2 @@
+Statistical Analysis
+Data are presented as mean +/- SEM per group. Results were analyzed using the analysis of variance (ANOVA) or Student's t test where relevant. P-values <0.05 were considered significant.

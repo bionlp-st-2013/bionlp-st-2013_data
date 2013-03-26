@@ -1,0 +1,2 @@
+ELISAOne Assay
+ELISAOne assays (TGRBio, Hindmarsh, Australia) were performed according to manufacturer's protocol with the following modifications. Cell lysates were prepared in RIPA buffer as described for Western blots. Five microliters of samples were diluted in 45 microL of ELISAOne lysis buffer prior to analysis. Primary antibodies to phopsho-Thr308 and phopsho-Ser473 were incubated with the samples for 2 hr at room temperature. Primary antibody to pan-Akt was incubated overnight at 4degreesC. Signals for phospho-antibodies were normalized based on pan-Akt values.

@@ -1,0 +1,2 @@
+3.2. Disruption of Nrf2 Enhanced Upregulation of NF-kappaB DNA-Binding Activity after Scratch Injury
+It has been reported that NF-kappaB is activated in brain after TBI [2]. Here, we studied the DNA-binding activity of NF-kappaB of astrocytes from Nrf2 WT or KO mice by EMSA at 24 h after scratch injury. Scratch injury induced activation of NF-kappaB in astrocytes of both genotypes, while higher NF-kappaB activity was observed in group KO TBI than in group WT TBI (2.67 +/- 0.173 versus 2.28 +/- 0.072, P < 0.01) (Figure 2).

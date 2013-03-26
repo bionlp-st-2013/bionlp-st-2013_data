@@ -1,0 +1,9 @@
+Tumor necrosis factor-alpha-mediated threonine 435 phosphorylation of p65 nuclear factor-kappaB subunit in endothelial cells induces vasogenic edema and neutrophil infiltration in the rat piriform cortex following status epilepticus
+Background
+Status epilepticus (SE) induces severe vasogenic edema in the piriform cortex (PC) accompanied by neuronal and astroglial damages. To elucidate the mechanism of SE-induced vasogenic edema, we investigated the roles of tumor necrosis factor (TNF)-alpha in blood-brain barrier (BBB) disruption during vasogenic edema and its related events in rat epilepsy models provoked by pilocarpine-induced SE.
+Methods
+SE was induced by pilocarpine in rats that were intracerebroventricularly infused with saline-, and soluble TNF p55 receptor (sTNFp55R) prior to SE induction. Thereafter, we performed Fluoro-Jade B staining and immunohistochemical studies for TNF-alpha and NF-kappaB subunits.
+Results
+Following SE, most activated microglia showed strong TNF-alpha immunoreactivity. In addition, TNF p75 receptor expression was detected in endothelial cells as well as astrocytes. In addition, only p65-Thr435 phosphorylation was increased in endothelial cells accompanied by SMI-71 expression (an endothelial barrier antigen). Neutralization of TNF-alpha by soluble TNF p55 receptor (sTNFp55R) infusion attenuated SE-induced vasogenic edema and neuronal damages via inhibition of p65-Thr435 phosphorylation in endothelial cells. Furthermore, sTNFp55R infusion reduced SE-induced neutrophil infiltration in the PC.
+Conclusion
+These findings suggest that impairments of endothelial cell functions via TNF-alpha-mediated p65-Thr 485 NF-kappaB phosphorylation may be involved in SE-induced vasogenic edema. Subsequently, vasogenic edema results in extensive neutrophil infiltration and neuronal-astroglial loss.

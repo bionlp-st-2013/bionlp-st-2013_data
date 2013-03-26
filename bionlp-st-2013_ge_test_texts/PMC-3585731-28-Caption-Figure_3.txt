@@ -1,0 +1,2 @@
+RIP1 kinase-dependent phosphorylation of Akt and JNK during necroptosis.
+(A) L929 cells were treated with zVAD.fmk or TNFalpha for 9 hr, followed by western blotting with indicated antibodies. (B,C) L929 cells were treated with zVAD.fmk (B) or bFGF/zVAD.fmk (serum free conditions, C) and samples were collected at the indicated time points for western blot. (D) Nec-1 was added to the cells stimulated with bFGF or bFGF/zVAD (serum free conditions) for 15 min or 9 hr followed by western blot with the indicated antibodies.
